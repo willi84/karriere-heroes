@@ -4,7 +4,7 @@
 // The list of which env maps to which file can be found in `.angular-cli.json`.
 
 /**
- * Environment Variable zu Development-Zwecken
+ * Environment Variable zu Test-Zwecken (z.B. Unit-Tests)
  */
 
 export const environment = {
@@ -26,7 +26,7 @@ export const environment = {
     'Vertrieb'                    : '/assets/vertrieb.jpg',
     'Kundenservice'               : '/assets/kundenservice.jpg',
     'IT Entwicklung'              : '/assets/entwicklung.jpg',
-    'IT Administration'           : '/assets/technik.jpg',
+    'IT Administration'           : '/assets/it.jpg',
     'Ausbildung'                  : '/assets/test.jpg',
     'Sonstige'                    : '/assets/test.jpg',
     'blank'                       : '/assets/test.jpg'
