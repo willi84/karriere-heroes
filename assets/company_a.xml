@@ -1,0 +1,2431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="/skins/default/css/integration-pages.css" ?>
+<?xml-stylesheet type="text/css" href="/skins/job123/css/integration-pages.css" ?>
+
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:heroes="http://www.heroes.eu/rss/elements">
+	<channel>
+		<atom:link href="http://some.domain/rss/stellen.do?kanalcrypt=uws-krypt" rel="self" type="application/rss+xml" />
+		<title>Unternehmenswebseite Company AG</title>
+		<link>http://some.domain</link>
+		<description><![CDATA[]]></description>
+		<language>de</language>
+		<pubDate>Thu, 30 Nov 2017 11:00:01 GMT</pubDate>
+		<item>
+			<link>http://some.domain/r/Z003606AJ94YUOJ/C-Developer+mw+Shared+Hosting/12345/Berlin</link>
+			<pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://some.domain/r/Z003606AJ94YUOJ/C-Developer+mw+Shared+Hosting/12345/Berlin</guid>
+			<title>C-Developer (m/w) Shared Hosting</title>
+			<description><![CDATA[<ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul>]]></description>
+			<heroes:stellenAnsichtLink>http://some.domain/r/Z01L9RULDQTCNK2/C-Developer+mw+Shared+Hosting/12345/Berlin</heroes:stellenAnsichtLink>
+			<heroes:bewerbungsLink>http://some.domain/r/Z007170IRN4XFEL/C-Developer+mw+Shared+Hosting/12345/Berlin</heroes:bewerbungsLink>
+			<heroes:kennziffer>1014</heroes:kennziffer>
+			<heroes:kennzifferkunde></heroes:kennzifferkunde>
+			<heroes:referenznummer></heroes:referenznummer>
+			<heroes:positionanzeige>C-Developer (m/w) Shared Hosting</heroes:positionanzeige>
+			<heroes:geschaeftsbereich>Company AG</heroes:geschaeftsbereich>
+			<heroes:geschaeftsbereichKey>STR</heroes:geschaeftsbereichKey>
+			<heroes:gesellschaft><![CDATA[Company AG]]></heroes:gesellschaft>
+			<heroes:infotext>COMPANY wurde 1997 gegr&#xfc;ndet und besch&#xe4;ftigt heute 550 Mitarbeiter an zwei Standorten in Deutschland.  Die wichtigsten M&#xe4;rkte sind Deutschland, die Niederlande, Spanien und die T&#xfc;rkei.
+
+Das Hosting-Unternehmen begleitet seine Kunden auf dem Weg in die Digitalisierung. Die Produktpalette reicht von Domains, Websites, Webshops und Online-Speicher &#xfc;ber Office-Pakete und Online-Marketing-Tools bis hin zu individuellen High-End-L&#xf6;sungen und Managed-Hosting. COMPANY hostet vier Millionen Domains f&#xfc;r Kunden weltweit und betreibt &#xfc;ber 60.000 Server in zwei T&#xdc;V-zertifizierten Rechenzentren in Deutschland.
+
+Mit seiner umfassenden Initiative &#x201e;#faireinfacht&#x201c; gestaltet COMPANY Webhosting-Dienste fairer und einfacher. COMPANY bietet seinen Kunden kurze Laufzeiten, eine einfache und schnelle Online-K&#xfc;ndigung sowie eine 30 Tage Geld-zur&#xfc;ck-Garantie &#x2013; f&#xfc;r s&#xe4;mtliche Produkte, auch f&#xfc;r Domains. Zus&#xe4;tzlich setzt COMPANY auf eine transparente Preisdarstellung mit glatten Preisen und ohne Kleingedrucktem.
+
+COMPANY geh&#xf6;rt seit dem 1. April 2017 zur United Internet-Gruppe.</heroes:infotext>
+			<heroes:aufgaben><![CDATA[<ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul>]]></heroes:aufgaben>
+			<heroes:qualifikationen><![CDATA[<ul><li>Sie verf&uuml;gen &uuml;ber ein(e) erfolgreich abgeschlossene(s) Ausbildung/ Studium aus den Bereichen Informatik, Wirtschaftsinformatik, Ingenieurswesen oder Naturwissenschaften und/oder &uuml;ber einschl&auml;gige Berufserfahrung</li></ul>]]></heroes:qualifikationen>
+			<heroes:formattedAufgaben><![CDATA[ 
+				<div id="jobproperty30">
+						<div class="label">Ihr Verantwortungsbereich:</div>
+						<div class="value"><ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedAufgaben>
+			<heroes:formattedQualifikationen><![CDATA[
+				<div id="jobproperty40">
+						<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+						<div class="value"><ul><li>Sie verf&uuml;gen &uuml;ber ein(e) erfolgreich abgeschlossene(s) Ausbildung/ Studium aus den Bereichen Informatik, Wirtschaftsinformatik, Ingenieurswesen oder Naturwissenschaften und/oder &uuml;ber einschl&auml;gige Berufserfahrung</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedQualifikationen>
+			<heroes:formattedZusatzinfo1><![CDATA[
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+			]]></heroes:formattedZusatzinfo1>
+			<heroes:formattedZusatzinfo2><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo2>
+			<heroes:formattedZusatzinfo3><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo3>
+			<heroes:beschaeftigungsart>Festanstellung</heroes:beschaeftigungsart>
+			<heroes:beschaeftigungsartKey></heroes:beschaeftigungsartKey>
+			<heroes:aufgabenbereich>Backend Development</heroes:aufgabenbereich>
+			<heroes:zuBesetzenAb>zum fr&#xfc;hestm&#xf6;glichen Eintrittstermin</heroes:zuBesetzenAb>
+			<heroes:einsatzortSummary>12345 Berlin, Deutschland</heroes:einsatzortSummary>
+			<heroes:einsatzort>Berlin</heroes:einsatzort>
+			<heroes:adresse></heroes:adresse>
+			<heroes:zusatzinfo1>&#x3c;ul>&#x3c;li>&#x3c;b>Freiraum statt Luftnot:&#x3c;/b>&#x3c;/li>&#x3c;/ul></heroes:zusatzinfo1>
+			<heroes:zusatzinfo2></heroes:zusatzinfo2>
+			<heroes:zusatzinfo3></heroes:zusatzinfo3>
+			<heroes:einleitung></heroes:einleitung>
+			<heroes:hotjob>false</heroes:hotjob>
+			<heroes:vacancycount>1</heroes:vacancycount>
+			<heroes:kostenstelle></heroes:kostenstelle>
+			<heroes:postleitzahl>12345</heroes:postleitzahl>
+			<heroes:land>Deutschland</heroes:land>
+			<heroes:plzmeta>12345</heroes:plzmeta>
+			<heroes:anspraushangname>P. Personal</heroes:anspraushangname>
+			<heroes:ansprpersonalemail>job10-personal@telum.de</heroes:ansprpersonalemail>
+			<heroes:anspraushangtel></heroes:anspraushangtel>
+			
+			<heroes:wochenarbeitszeit>null</heroes:wochenarbeitszeit>
+			<heroes:wideDescription><![CDATA[
+			<div id="rss">
+				<div id="description">
+					<div id="jobproperty10">
+						<div class="label">Kennziffer</div>
+						<div class="value">1014</div>
+					</div>
+					<div id="jobproperty20">
+						<div class="label">Gesellschaft</div>
+						<div class="value">Company AG</div>
+					</div>
+					<div id="jobproperty30">
+							<div class="label">Ihr Verantwortungsbereich:</div>
+							<div class="value"><ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul></div>
+						</div>
+					<div id="jobproperty40">
+							<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+							<div class="value"><ul><li>Sie verf&uuml;gen &uuml;ber ein(e) erfolgreich abgeschlossene(s) Ausbildung/ Studium aus den Bereichen Informatik, Wirtschaftsinformatik, Ingenieurswesen oder Naturwissenschaften und/oder &uuml;ber einschl&auml;gige Berufserfahrung</li></ul></div>
+						</div>
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+						<div id="jobproperty60">
+							<div class="label">Einsatzort</div>
+							<div class="value">Berlin</div>
+						</div>
+					<div id="jobproperty65">
+							<div class="label">Land</div>
+							<div class="value">Deutschland</div>
+						</div>
+					<div id="jobproperty70">
+							<div class="label">Aufgabenbereich</div>
+							<div class="value">Backend Development</div>
+						</div>
+					<div id="jobproperty80">
+							<div class="label">Besch&#xe4;ftigungsart</div>
+							<div class="value">Festanstellung</div>
+						</div>
+					</div>
+			</div>
+			<!--
+			<nummer>1014</nummer>
+			<ort>Berlin</ort>
+			<land>Deutschland</land>
+			<kontakt>P. Personal</kontakt>
+			<kontakt-telefon>+49 00 11 22 33 </kontakt-telefon>
+			<link>http://some.domain/r/Z000Q3P63TYK3MB</link>
+
+			<plz>12345</plz>
+			<strasse-nr></strasse-nr>
+			<bundesland></bundesland>
+			
+			-->
+			]]></heroes:wideDescription>
+		</item>
+		<item>
+			<link>http://some.domain/r/Z00Y0BCKWRK4OC1/Cloud+Platform+Developer+mw+mit+OpenStack/12345/Berlin</link>
+			<pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://some.domain/r/Z00Y0BCKWRK4OC1/Cloud+Platform+Developer+mw+mit+OpenStack/12345/Berlin</guid>
+			<title>Cloud Platform Developer (m/w) mit OpenStack</title>
+			<description><![CDATA[<ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul>]]></description>
+			<heroes:stellenAnsichtLink>http://some.domain/r/Z026537YFNEPFBS/Cloud+Platform+Developer+mw+mit+OpenStack/12345/Berlin</heroes:stellenAnsichtLink>
+			<heroes:bewerbungsLink>http://some.domain/r/Z025AAPG50TY3BW/Cloud+Platform+Developer+mw+mit+OpenStack/12345/Berlin</heroes:bewerbungsLink>
+			<heroes:kennziffer>1015</heroes:kennziffer>
+			<heroes:kennzifferkunde></heroes:kennzifferkunde>
+			<heroes:referenznummer></heroes:referenznummer>
+			<heroes:positionanzeige>Cloud Platform Developer (m/w) mit OpenStack</heroes:positionanzeige>
+			<heroes:geschaeftsbereich>Company AG</heroes:geschaeftsbereich>
+			<heroes:geschaeftsbereichKey>STR</heroes:geschaeftsbereichKey>
+			<heroes:gesellschaft><![CDATA[Company AG]]></heroes:gesellschaft>
+			<heroes:infotext>COMPANY wurde 1997 gegr&#xfc;ndet und besch&#xe4;ftigt heute 550 Mitarbeiter an zwei Standorten in Deutschland.  Die wichtigsten M&#xe4;rkte sind Deutschland, die Niederlande, Spanien und die T&#xfc;rkei.
+
+Das Hosting-Unternehmen begleitet seine Kunden auf dem Weg in die Digitalisierung. Die Produktpalette reicht von Domains, Websites, Webshops und Online-Speicher &#xfc;ber Office-Pakete und Online-Marketing-Tools bis hin zu individuellen High-End-L&#xf6;sungen und Managed-Hosting. COMPANY hostet vier Millionen Domains f&#xfc;r Kunden weltweit und betreibt &#xfc;ber 60.000 Server in zwei T&#xdc;V-zertifizierten Rechenzentren in Deutschland.
+
+Mit seiner umfassenden Initiative &#x201e;#faireinfacht&#x201c; gestaltet COMPANY Webhosting-Dienste fairer und einfacher. COMPANY bietet seinen Kunden kurze Laufzeiten, eine einfache und schnelle Online-K&#xfc;ndigung sowie eine 30 Tage Geld-zur&#xfc;ck-Garantie &#x2013; f&#xfc;r s&#xe4;mtliche Produkte, auch f&#xfc;r Domains. Zus&#xe4;tzlich setzt COMPANY auf eine transparente Preisdarstellung mit glatten Preisen und ohne Kleingedrucktem.
+
+COMPANY geh&#xf6;rt seit dem 1. April 2017 zur United Internet-Gruppe.</heroes:infotext>
+			<heroes:aufgaben><![CDATA[<ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul>]]></heroes:aufgaben>
+			<heroes:qualifikationen><![CDATA[<ul><li>Sie verf&uuml;gen &uuml;ber ein(e) erfolgreich abgeschlossene(s) Ausbildung/ Studium aus den Bereichen Informatik, Wirtschaftsinformatik, Ingenieurswesen oder Naturwissenschaften und/oder &uuml;ber einschl&auml;gige Berufserfahrung</li></ul>]]></heroes:qualifikationen>
+			<heroes:formattedAufgaben><![CDATA[ 
+				<div id="jobproperty30">
+						<div class="label">Ihr Verantwortungsbereich:</div>
+						<div class="value"><ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedAufgaben>
+			<heroes:formattedQualifikationen><![CDATA[
+				<div id="jobproperty40">
+						<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+						<div class="value"><ul><li>Sie verf&uuml;gen &uuml;ber ein(e) erfolgreich abgeschlossene(s) Ausbildung/ Studium aus den Bereichen Informatik, Wirtschaftsinformatik, Ingenieurswesen oder Naturwissenschaften und/oder &uuml;ber einschl&auml;gige Berufserfahrung</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedQualifikationen>
+			<heroes:formattedZusatzinfo1><![CDATA[
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+			]]></heroes:formattedZusatzinfo1>
+			<heroes:formattedZusatzinfo2><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo2>
+			<heroes:formattedZusatzinfo3><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo3>
+			<heroes:beschaeftigungsart>Festanstellung</heroes:beschaeftigungsart>
+			<heroes:beschaeftigungsartKey></heroes:beschaeftigungsartKey>
+			<heroes:aufgabenbereich>Backend Development</heroes:aufgabenbereich>
+			<heroes:zuBesetzenAb>zum fr&#xfc;hestm&#xf6;glichen Eintrittstermin</heroes:zuBesetzenAb>
+			<heroes:einsatzortSummary>12345 Berlin, Deutschland</heroes:einsatzortSummary>
+			<heroes:einsatzort>Berlin</heroes:einsatzort>
+			<heroes:adresse></heroes:adresse>
+			<heroes:zusatzinfo1>&#x3c;ul>&#x3c;li>&#x3c;b>Freiraum statt Luftnot:&#x3c;/b>&#x3c;/li>&#x3c;/ul></heroes:zusatzinfo1>
+			<heroes:zusatzinfo2></heroes:zusatzinfo2>
+			<heroes:zusatzinfo3></heroes:zusatzinfo3>
+			<heroes:einleitung></heroes:einleitung>
+			<heroes:hotjob>false</heroes:hotjob>
+			<heroes:vacancycount>1</heroes:vacancycount>
+			<heroes:kostenstelle></heroes:kostenstelle>
+			<heroes:postleitzahl>12345</heroes:postleitzahl>
+			<heroes:land>Deutschland</heroes:land>
+			<heroes:plzmeta>12345</heroes:plzmeta>
+			<heroes:anspraushangname>P. Personal</heroes:anspraushangname>
+			<heroes:ansprpersonalemail>job10-personal@telum.de</heroes:ansprpersonalemail>
+			<heroes:anspraushangtel></heroes:anspraushangtel>
+			
+			<heroes:wochenarbeitszeit>null</heroes:wochenarbeitszeit>
+			<heroes:wideDescription><![CDATA[
+			<div id="rss">
+				<div id="description">
+					<div id="jobproperty10">
+						<div class="label">Kennziffer</div>
+						<div class="value">1015</div>
+					</div>
+					<div id="jobproperty20">
+						<div class="label">Gesellschaft</div>
+						<div class="value">Company AG</div>
+					</div>
+					<div id="jobproperty30">
+							<div class="label">Ihr Verantwortungsbereich:</div>
+							<div class="value"><ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul></div>
+						</div>
+					<div id="jobproperty40">
+							<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+							<div class="value"><ul><li>Sie verf&uuml;gen &uuml;ber ein(e) erfolgreich abgeschlossene(s) Ausbildung/ Studium aus den Bereichen Informatik, Wirtschaftsinformatik, Ingenieurswesen oder Naturwissenschaften und/oder &uuml;ber einschl&auml;gige Berufserfahrung</li></ul></div>
+						</div>
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+						<div id="jobproperty60">
+							<div class="label">Einsatzort</div>
+							<div class="value">Berlin</div>
+						</div>
+					<div id="jobproperty65">
+							<div class="label">Land</div>
+							<div class="value">Deutschland</div>
+						</div>
+					<div id="jobproperty70">
+							<div class="label">Aufgabenbereich</div>
+							<div class="value">Backend Development</div>
+						</div>
+					<div id="jobproperty80">
+							<div class="label">Besch&#xe4;ftigungsart</div>
+							<div class="value">Festanstellung</div>
+						</div>
+					</div>
+			</div>
+			<!--
+			<nummer>1015</nummer>
+			<ort>Berlin</ort>
+			<land>Deutschland</land>
+			<kontakt>P. Personal</kontakt>
+			<kontakt-telefon>+49 00 11 22 33 </kontakt-telefon>
+			<link>http://some.domain/r/Z02GK1GB4GVP1GA</link>
+
+			<plz>12345</plz>
+			<strasse-nr></strasse-nr>
+			<bundesland></bundesland>
+			
+			-->
+			]]></heroes:wideDescription>
+		</item>
+		<item>
+			<link>http://some.domain/r/Z12OOQ1KOX02WRP/DevOps+Engineer+mw+MySQL/12345/Berlin</link>
+			<pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://some.domain/r/Z12OOQ1KOX02WRP/DevOps+Engineer+mw+MySQL/12345/Berlin</guid>
+			<title>DevOps Engineer (m/w) MySQL</title>
+			<description><![CDATA[<ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul>]]></description>
+			<heroes:stellenAnsichtLink>http://some.domain/r/Z00QAKNVBB2TCOU/DevOps+Engineer+mw+MySQL/12345/Berlin</heroes:stellenAnsichtLink>
+			<heroes:bewerbungsLink>http://some.domain/r/Z1176SI35CVXRYL/DevOps+Engineer+mw+MySQL/12345/Berlin</heroes:bewerbungsLink>
+			<heroes:kennziffer>1013</heroes:kennziffer>
+			<heroes:kennzifferkunde></heroes:kennzifferkunde>
+			<heroes:referenznummer></heroes:referenznummer>
+			<heroes:positionanzeige>DevOps Engineer (m/w) MySQL</heroes:positionanzeige>
+			<heroes:geschaeftsbereich>Company AG</heroes:geschaeftsbereich>
+			<heroes:geschaeftsbereichKey>STR</heroes:geschaeftsbereichKey>
+			<heroes:gesellschaft><![CDATA[Company AG]]></heroes:gesellschaft>
+			<heroes:infotext>COMPANY wurde 1997 gegr&#xfc;ndet und besch&#xe4;ftigt heute 550 Mitarbeiter an zwei Standorten in Deutschland.  Die wichtigsten M&#xe4;rkte sind Deutschland, die Niederlande, Spanien und die T&#xfc;rkei.
+
+Das Hosting-Unternehmen begleitet seine Kunden auf dem Weg in die Digitalisierung. Die Produktpalette reicht von Domains, Websites, Webshops und Online-Speicher &#xfc;ber Office-Pakete und Online-Marketing-Tools bis hin zu individuellen High-End-L&#xf6;sungen und Managed-Hosting. COMPANY hostet vier Millionen Domains f&#xfc;r Kunden weltweit und betreibt &#xfc;ber 60.000 Server in zwei T&#xdc;V-zertifizierten Rechenzentren in Deutschland.
+
+Mit seiner umfassenden Initiative &#x201e;#faireinfacht&#x201c; gestaltet COMPANY Webhosting-Dienste fairer und einfacher. COMPANY bietet seinen Kunden kurze Laufzeiten, eine einfache und schnelle Online-K&#xfc;ndigung sowie eine 30 Tage Geld-zur&#xfc;ck-Garantie &#x2013; f&#xfc;r s&#xe4;mtliche Produkte, auch f&#xfc;r Domains. Zus&#xe4;tzlich setzt COMPANY auf eine transparente Preisdarstellung mit glatten Preisen und ohne Kleingedrucktem.
+
+COMPANY geh&#xf6;rt seit dem 1. April 2017 zur United Internet-Gruppe.</heroes:infotext>
+			<heroes:aufgaben><![CDATA[<ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul>]]></heroes:aufgaben>
+			<heroes:qualifikationen><![CDATA[<ul><li>Sie verf&uuml;gen &uuml;ber ein(e) erfolgreich abgeschlossene(s) Ausbildung/ Studium aus den Bereichen Informatik, Wirtschaftsinformatik, Ingenieurswesen oder Naturwissenschaften und/oder &uuml;ber einschl&auml;gige Berufserfahrung</li></ul>]]></heroes:qualifikationen>
+			<heroes:formattedAufgaben><![CDATA[ 
+				<div id="jobproperty30">
+						<div class="label">Ihr Verantwortungsbereich:</div>
+						<div class="value"><ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedAufgaben>
+			<heroes:formattedQualifikationen><![CDATA[
+				<div id="jobproperty40">
+						<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+						<div class="value"><ul><li>Sie verf&uuml;gen &uuml;ber ein(e) erfolgreich abgeschlossene(s) Ausbildung/ Studium aus den Bereichen Informatik, Wirtschaftsinformatik, Ingenieurswesen oder Naturwissenschaften und/oder &uuml;ber einschl&auml;gige Berufserfahrung</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedQualifikationen>
+			<heroes:formattedZusatzinfo1><![CDATA[
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+			]]></heroes:formattedZusatzinfo1>
+			<heroes:formattedZusatzinfo2><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo2>
+			<heroes:formattedZusatzinfo3><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo3>
+			<heroes:beschaeftigungsart>Festanstellung</heroes:beschaeftigungsart>
+			<heroes:beschaeftigungsartKey></heroes:beschaeftigungsartKey>
+			<heroes:aufgabenbereich>Backend Development</heroes:aufgabenbereich>
+			<heroes:zuBesetzenAb>zum fr&#xfc;hestm&#xf6;glichen Eintrittstermin</heroes:zuBesetzenAb>
+			<heroes:einsatzortSummary>12345 Berlin, Deutschland</heroes:einsatzortSummary>
+			<heroes:einsatzort>Berlin</heroes:einsatzort>
+			<heroes:adresse></heroes:adresse>
+			<heroes:zusatzinfo1>&#x3c;ul>&#x3c;li>&#x3c;b>Freiraum statt Luftnot:&#x3c;/b>&#x3c;/li>&#x3c;/ul></heroes:zusatzinfo1>
+			<heroes:zusatzinfo2></heroes:zusatzinfo2>
+			<heroes:zusatzinfo3></heroes:zusatzinfo3>
+			<heroes:einleitung></heroes:einleitung>
+			<heroes:hotjob>false</heroes:hotjob>
+			<heroes:vacancycount>1</heroes:vacancycount>
+			<heroes:kostenstelle></heroes:kostenstelle>
+			<heroes:postleitzahl>12345</heroes:postleitzahl>
+			<heroes:land>Deutschland</heroes:land>
+			<heroes:plzmeta>12345</heroes:plzmeta>
+			<heroes:anspraushangname>P. Personal</heroes:anspraushangname>
+			<heroes:ansprpersonalemail>job10-personal@telum.de</heroes:ansprpersonalemail>
+			<heroes:anspraushangtel></heroes:anspraushangtel>
+			
+			<heroes:wochenarbeitszeit>null</heroes:wochenarbeitszeit>
+			<heroes:wideDescription><![CDATA[
+			<div id="rss">
+				<div id="description">
+					<div id="jobproperty10">
+						<div class="label">Kennziffer</div>
+						<div class="value">1013</div>
+					</div>
+					<div id="jobproperty20">
+						<div class="label">Gesellschaft</div>
+						<div class="value">Company AG</div>
+					</div>
+					<div id="jobproperty30">
+							<div class="label">Ihr Verantwortungsbereich:</div>
+							<div class="value"><ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul></div>
+						</div>
+					<div id="jobproperty40">
+							<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+							<div class="value"><ul><li>Sie verf&uuml;gen &uuml;ber ein(e) erfolgreich abgeschlossene(s) Ausbildung/ Studium aus den Bereichen Informatik, Wirtschaftsinformatik, Ingenieurswesen oder Naturwissenschaften und/oder &uuml;ber einschl&auml;gige Berufserfahrung</li></ul></div>
+						</div>
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+						<div id="jobproperty60">
+							<div class="label">Einsatzort</div>
+							<div class="value">Berlin</div>
+						</div>
+					<div id="jobproperty65">
+							<div class="label">Land</div>
+							<div class="value">Deutschland</div>
+						</div>
+					<div id="jobproperty70">
+							<div class="label">Aufgabenbereich</div>
+							<div class="value">Backend Development</div>
+						</div>
+					<div id="jobproperty80">
+							<div class="label">Besch&#xe4;ftigungsart</div>
+							<div class="value">Festanstellung</div>
+						</div>
+					</div>
+			</div>
+			<!--
+			<nummer>1013</nummer>
+			<ort>Berlin</ort>
+			<land>Deutschland</land>
+			<kontakt>P. Personal</kontakt>
+			<kontakt-telefon>+49 00 11 22 33 </kontakt-telefon>
+			<link>http://some.domain/r/Z12KE8BE8P97XUY</link>
+
+			<plz>12345</plz>
+			<strasse-nr></strasse-nr>
+			<bundesland></bundesland>
+			
+			-->
+			]]></heroes:wideDescription>
+		</item>
+		<item>
+			<link>http://some.domain/r/Z01QC4QE6SYU0KP/Entwickler+mw+PerlC+Backend+Development/12345/Berlin</link>
+			<pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://some.domain/r/Z01QC4QE6SYU0KP/Entwickler+mw+PerlC+Backend+Development/12345/Berlin</guid>
+			<title>Entwickler (m/w) Perl/C Backend Development</title>
+			<description><![CDATA[<ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul>]]></description>
+			<heroes:stellenAnsichtLink>http://some.domain/r/Z11JA3G345E9L5X/Entwickler+mw+PerlC+Backend+Development/12345/Berlin</heroes:stellenAnsichtLink>
+			<heroes:bewerbungsLink>http://some.domain/r/Z01FLJ1BF05US2I/Entwickler+mw+PerlC+Backend+Development/12345/Berlin</heroes:bewerbungsLink>
+			<heroes:kennziffer>1016</heroes:kennziffer>
+			<heroes:kennzifferkunde></heroes:kennzifferkunde>
+			<heroes:referenznummer></heroes:referenznummer>
+			<heroes:positionanzeige>Entwickler (m/w) Perl/C Backend Development</heroes:positionanzeige>
+			<heroes:geschaeftsbereich>Company AG</heroes:geschaeftsbereich>
+			<heroes:geschaeftsbereichKey>STR</heroes:geschaeftsbereichKey>
+			<heroes:gesellschaft><![CDATA[Company AG]]></heroes:gesellschaft>
+			<heroes:infotext>COMPANY wurde 1997 gegr&#xfc;ndet und besch&#xe4;ftigt heute 550 Mitarbeiter an zwei Standorten in Deutschland.  Die wichtigsten M&#xe4;rkte sind Deutschland, die Niederlande, Spanien und die T&#xfc;rkei.
+
+Das Hosting-Unternehmen begleitet seine Kunden auf dem Weg in die Digitalisierung. Die Produktpalette reicht von Domains, Websites, Webshops und Online-Speicher &#xfc;ber Office-Pakete und Online-Marketing-Tools bis hin zu individuellen High-End-L&#xf6;sungen und Managed-Hosting. COMPANY hostet vier Millionen Domains f&#xfc;r Kunden weltweit und betreibt &#xfc;ber 60.000 Server in zwei T&#xdc;V-zertifizierten Rechenzentren in Deutschland.
+
+Mit seiner umfassenden Initiative &#x201e;#faireinfacht&#x201c; gestaltet COMPANY Webhosting-Dienste fairer und einfacher. COMPANY bietet seinen Kunden kurze Laufzeiten, eine einfache und schnelle Online-K&#xfc;ndigung sowie eine 30 Tage Geld-zur&#xfc;ck-Garantie &#x2013; f&#xfc;r s&#xe4;mtliche Produkte, auch f&#xfc;r Domains. Zus&#xe4;tzlich setzt COMPANY auf eine transparente Preisdarstellung mit glatten Preisen und ohne Kleingedrucktem.
+
+COMPANY geh&#xf6;rt seit dem 1. April 2017 zur United Internet-Gruppe.</heroes:infotext>
+			<heroes:aufgaben><![CDATA[<ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul>]]></heroes:aufgaben>
+			<heroes:qualifikationen><![CDATA[<ul><li>Sie verf&uuml;gen &uuml;ber ein(e) erfolgreich abgeschlossene(s) Ausbildung/ Studium aus den Bereichen Informatik, Wirtschaftsinformatik, Ingenieurswesen oder Naturwissenschaften und/oder &uuml;ber einschl&auml;gige Berufserfahrung</li></ul>]]></heroes:qualifikationen>
+			<heroes:formattedAufgaben><![CDATA[ 
+				<div id="jobproperty30">
+						<div class="label">Ihr Verantwortungsbereich:</div>
+						<div class="value"><ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedAufgaben>
+			<heroes:formattedQualifikationen><![CDATA[
+				<div id="jobproperty40">
+						<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+						<div class="value"><ul><li>Sie verf&uuml;gen &uuml;ber ein(e) erfolgreich abgeschlossene(s) Ausbildung/ Studium aus den Bereichen Informatik, Wirtschaftsinformatik, Ingenieurswesen oder Naturwissenschaften und/oder &uuml;ber einschl&auml;gige Berufserfahrung</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedQualifikationen>
+			<heroes:formattedZusatzinfo1><![CDATA[
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+			]]></heroes:formattedZusatzinfo1>
+			<heroes:formattedZusatzinfo2><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo2>
+			<heroes:formattedZusatzinfo3><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo3>
+			<heroes:beschaeftigungsart>Festanstellung</heroes:beschaeftigungsart>
+			<heroes:beschaeftigungsartKey></heroes:beschaeftigungsartKey>
+			<heroes:aufgabenbereich>Backend Development</heroes:aufgabenbereich>
+			<heroes:zuBesetzenAb>zum fr&#xfc;hestm&#xf6;glichen Eintrittstermin</heroes:zuBesetzenAb>
+			<heroes:einsatzortSummary>12345 Berlin, Deutschland</heroes:einsatzortSummary>
+			<heroes:einsatzort>Berlin</heroes:einsatzort>
+			<heroes:adresse></heroes:adresse>
+			<heroes:zusatzinfo1>&#x3c;ul>&#x3c;li>&#x3c;b>Freiraum statt Luftnot:&#x3c;/b>&#x3c;/li>&#x3c;/ul></heroes:zusatzinfo1>
+			<heroes:zusatzinfo2></heroes:zusatzinfo2>
+			<heroes:zusatzinfo3></heroes:zusatzinfo3>
+			<heroes:einleitung></heroes:einleitung>
+			<heroes:hotjob>false</heroes:hotjob>
+			<heroes:vacancycount>1</heroes:vacancycount>
+			<heroes:kostenstelle></heroes:kostenstelle>
+			<heroes:postleitzahl>12345</heroes:postleitzahl>
+			<heroes:land>Deutschland</heroes:land>
+			<heroes:plzmeta>12345</heroes:plzmeta>
+			<heroes:anspraushangname>P. Personal</heroes:anspraushangname>
+			<heroes:ansprpersonalemail>job10-personal@telum.de</heroes:ansprpersonalemail>
+			<heroes:anspraushangtel></heroes:anspraushangtel>
+			
+			<heroes:wochenarbeitszeit>null</heroes:wochenarbeitszeit>
+			<heroes:wideDescription><![CDATA[
+			<div id="rss">
+				<div id="description">
+					<div id="jobproperty10">
+						<div class="label">Kennziffer</div>
+						<div class="value">1016</div>
+					</div>
+					<div id="jobproperty20">
+						<div class="label">Gesellschaft</div>
+						<div class="value">Company AG</div>
+					</div>
+					<div id="jobproperty30">
+							<div class="label">Ihr Verantwortungsbereich:</div>
+							<div class="value"><ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul></div>
+						</div>
+					<div id="jobproperty40">
+							<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+							<div class="value"><ul><li>Sie verf&uuml;gen &uuml;ber ein(e) erfolgreich abgeschlossene(s) Ausbildung/ Studium aus den Bereichen Informatik, Wirtschaftsinformatik, Ingenieurswesen oder Naturwissenschaften und/oder &uuml;ber einschl&auml;gige Berufserfahrung</li></ul></div>
+						</div>
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+						<div id="jobproperty60">
+							<div class="label">Einsatzort</div>
+							<div class="value">Berlin</div>
+						</div>
+					<div id="jobproperty65">
+							<div class="label">Land</div>
+							<div class="value">Deutschland</div>
+						</div>
+					<div id="jobproperty70">
+							<div class="label">Aufgabenbereich</div>
+							<div class="value">Backend Development</div>
+						</div>
+					<div id="jobproperty80">
+							<div class="label">Besch&#xe4;ftigungsart</div>
+							<div class="value">Festanstellung</div>
+						</div>
+					</div>
+			</div>
+			<!--
+			<nummer>1016</nummer>
+			<ort>Berlin</ort>
+			<land>Deutschland</land>
+			<kontakt>P. Personal</kontakt>
+			<kontakt-telefon>+49 00 11 22 33 </kontakt-telefon>
+			<link>http://some.domain/r/Z01E0T97MYH766D</link>
+
+			<plz>12345</plz>
+			<strasse-nr></strasse-nr>
+			<bundesland></bundesland>
+			
+			-->
+			]]></heroes:wideDescription>
+		</item>
+		<item>
+			<link>http://some.domain/r/Z12HD2WS2DNKD74/Manager+mw+White+Label+Business+Development/12345+/Berlin</link>
+			<pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://some.domain/r/Z12HD2WS2DNKD74/Manager+mw+White+Label+Business+Development/12345+/Berlin</guid>
+			<title>Manager (m/w) White Label Business Development</title>
+			<description><![CDATA[<ul><li>Als Manager/in White Label Business Development unterst&uuml;tzen Sie die Gesch&auml;ftsleitung mit Ideen und Engagement rund um die Erschlie&szlig;ung neuer White Label Partner</li></ul>]]></description>
+			<heroes:stellenAnsichtLink>http://some.domain/r/Z02O89S542CR4RA/Manager+mw+White+Label+Business+Development/12345+/Berlin</heroes:stellenAnsichtLink>
+			<heroes:bewerbungsLink>http://some.domain/r/Z11U6THR98PY4AO/Manager+mw+White+Label+Business+Development/12345+/Berlin</heroes:bewerbungsLink>
+			<heroes:kennziffer>1006</heroes:kennziffer>
+			<heroes:kennzifferkunde></heroes:kennzifferkunde>
+			<heroes:referenznummer></heroes:referenznummer>
+			<heroes:positionanzeige>Manager (m/w) White Label Business Development</heroes:positionanzeige>
+			<heroes:geschaeftsbereich>Company AG</heroes:geschaeftsbereich>
+			<heroes:geschaeftsbereichKey>STR</heroes:geschaeftsbereichKey>
+			<heroes:gesellschaft><![CDATA[Company AG]]></heroes:gesellschaft>
+			<heroes:infotext>COMPANY wurde 1997 gegr&#xfc;ndet und besch&#xe4;ftigt heute 550 Mitarbeiter an zwei Standorten in Deutschland.  Die wichtigsten M&#xe4;rkte sind Deutschland, die Niederlande, Spanien und die T&#xfc;rkei.
+
+Das Hosting-Unternehmen begleitet seine Kunden auf dem Weg in die Digitalisierung. Die Produktpalette reicht von Domains, Websites, Webshops und Online-Speicher &#xfc;ber Office-Pakete und Online-Marketing-Tools bis hin zu individuellen High-End-L&#xf6;sungen und Managed-Hosting. COMPANY hostet vier Millionen Domains f&#xfc;r Kunden weltweit und betreibt &#xfc;ber 60.000 Server in zwei T&#xdc;V-zertifizierten Rechenzentren in Deutschland.
+
+Mit seiner umfassenden Initiative &#x201e;#faireinfacht&#x201c; gestaltet COMPANY Webhosting-Dienste fairer und einfacher. COMPANY bietet seinen Kunden kurze Laufzeiten, eine einfache und schnelle Online-K&#xfc;ndigung sowie eine 30 Tage Geld-zur&#xfc;ck-Garantie &#x2013; f&#xfc;r s&#xe4;mtliche Produkte, auch f&#xfc;r Domains. Zus&#xe4;tzlich setzt COMPANY auf eine transparente Preisdarstellung mit glatten Preisen und ohne Kleingedrucktem.
+
+COMPANY geh&#xf6;rt seit dem 1. April 2017 zur United Internet-Gruppe.</heroes:infotext>
+			<heroes:aufgaben><![CDATA[<ul><li>Als Manager/in White Label Business Development unterst&uuml;tzen Sie die Gesch&auml;ftsleitung mit Ideen und Engagement rund um die Erschlie&szlig;ung neuer White Label Partner</li></ul>]]></heroes:aufgaben>
+			<heroes:qualifikationen><![CDATA[<ul><li>Sie verf&uuml;gen &uuml;ber fundierte Kenntnisse und Kontakte in den Bereichen Internet-Technologien/Webhosting und SaaS-Anwendungen</li></ul>]]></heroes:qualifikationen>
+			<heroes:formattedAufgaben><![CDATA[ 
+				<div id="jobproperty30">
+						<div class="label">Ihr Verantwortungsbereich:</div>
+						<div class="value"><ul><li>Als Manager/in White Label Business Development unterst&uuml;tzen Sie die Gesch&auml;ftsleitung mit Ideen und Engagement rund um die Erschlie&szlig;ung neuer White Label Partner</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedAufgaben>
+			<heroes:formattedQualifikationen><![CDATA[
+				<div id="jobproperty40">
+						<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+						<div class="value"><ul><li>Sie verf&uuml;gen &uuml;ber fundierte Kenntnisse und Kontakte in den Bereichen Internet-Technologien/Webhosting und SaaS-Anwendungen</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedQualifikationen>
+			<heroes:formattedZusatzinfo1><![CDATA[
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><b>- Freiraum statt Luftnot:</b> Gute Ideen brauchen Platz zum Atmen. Wir geben Ihnen, was Sie brauchen: Flexible Arbeitszeiten sind bei uns Standard.<br />
+<br />
+<br />
+</div>
+						</div>
+			]]></heroes:formattedZusatzinfo1>
+			<heroes:formattedZusatzinfo2><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo2>
+			<heroes:formattedZusatzinfo3><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo3>
+			<heroes:beschaeftigungsart>Festanstellung</heroes:beschaeftigungsart>
+			<heroes:beschaeftigungsartKey></heroes:beschaeftigungsartKey>
+			<heroes:aufgabenbereich>Business Unit</heroes:aufgabenbereich>
+			<heroes:zuBesetzenAb>zum fr&#xfc;hestm&#xf6;glichen Eintrittstermin</heroes:zuBesetzenAb>
+			<heroes:einsatzortSummary>12345 Berlin, Deutschland</heroes:einsatzortSummary>
+			<heroes:einsatzort>Berlin</heroes:einsatzort>
+			<heroes:adresse>Company AG
+Personalabteilung 
+Foostra&#xdf;e 10, 12345  Berlin
+Deutschland
+</heroes:adresse>
+			<heroes:zusatzinfo1>&#x3c;b>- Freiraum statt Luftnot:&#x3c;/b> Gute Ideen brauchen Platz zum Atmen. Wir geben Ihnen, was Sie brauchen: Flexible Arbeitszeiten sind bei uns Standard.&#x3c;br />
+&#x3c;br />
+&#x3c;br />
+</heroes:zusatzinfo1>
+			<heroes:zusatzinfo2></heroes:zusatzinfo2>
+			<heroes:zusatzinfo3></heroes:zusatzinfo3>
+			<heroes:einleitung></heroes:einleitung>
+			<heroes:hotjob>false</heroes:hotjob>
+			<heroes:vacancycount>1</heroes:vacancycount>
+			<heroes:kostenstelle></heroes:kostenstelle>
+			<heroes:postleitzahl>12345</heroes:postleitzahl>
+			<heroes:land>Deutschland</heroes:land>
+			<heroes:plzmeta>12345</heroes:plzmeta>
+			<heroes:anspraushangname>P. Personal</heroes:anspraushangname>
+			<heroes:ansprpersonalemail>job10-personal@telum.de</heroes:ansprpersonalemail>
+			<heroes:anspraushangtel></heroes:anspraushangtel>
+			
+			<heroes:wochenarbeitszeit>null</heroes:wochenarbeitszeit>
+			<heroes:wideDescription><![CDATA[
+			<div id="rss">
+				<div id="description">
+					<div id="jobproperty10">
+						<div class="label">Kennziffer</div>
+						<div class="value">1006</div>
+					</div>
+					<div id="jobproperty20">
+						<div class="label">Gesellschaft</div>
+						<div class="value">Company AG</div>
+					</div>
+					<div id="jobproperty30">
+							<div class="label">Ihr Verantwortungsbereich:</div>
+							<div class="value"><ul><li>Als Manager/in White Label Business Development unterst&uuml;tzen Sie die Gesch&auml;ftsleitung mit Ideen und Engagement rund um die Erschlie&szlig;ung neuer White Label Partner</li></ul></div>
+						</div>
+					<div id="jobproperty40">
+							<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+							<div class="value"><ul><li>Sie verf&uuml;gen &uuml;ber fundierte Kenntnisse und Kontakte in den Bereichen Internet-Technologien/Webhosting und SaaS-Anwendungen</li></ul></div>
+						</div>
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><b>- Freiraum statt Luftnot:</b> Gute Ideen brauchen Platz zum Atmen. Wir geben Ihnen, was Sie brauchen: Flexible Arbeitszeiten sind bei uns Standard.<br />
+<br />
+<br />
+</div>
+						</div>
+						<div id="jobproperty60">
+							<div class="label">Einsatzort</div>
+							<div class="value">Berlin</div>
+						</div>
+					<div id="jobproperty65">
+							<div class="label">Land</div>
+							<div class="value">Deutschland</div>
+						</div>
+					<div id="jobproperty70">
+							<div class="label">Aufgabenbereich</div>
+							<div class="value">Business Unit</div>
+						</div>
+					<div id="jobproperty80">
+							<div class="label">Besch&#xe4;ftigungsart</div>
+							<div class="value">Festanstellung</div>
+						</div>
+					<div id="jobproperty90">
+						<div class="label">Adresse</div>
+						<div class="value"> Company AG<br>Personalabteilung <br>Foostra&#xdf;e 10, 12345  Berlin<br>Deutschland
+</div>
+						</div>
+					</div>
+			</div>
+			<!--
+			<nummer>1006</nummer>
+			<ort>Berlin</ort>
+			<land>Deutschland</land>
+			<kontakt>P. Personal</kontakt>
+			<kontakt-telefon>+49 00 11 22 33 </kontakt-telefon>
+			<link>http://some.domain/r/Z02MWGYMS4JOI0X</link>
+
+			<plz>12345</plz>
+			<strasse-nr></strasse-nr>
+			<bundesland></bundesland>
+			
+			-->
+			]]></heroes:wideDescription>
+		</item>
+		<item>
+			<link>http://some.domain/r/Z00JDVG75XAWQ8U/Mitarbeiter+DevOps+mw+Shared+Hosting/12345/Berlin</link>
+			<pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://some.domain/r/Z00JDVG75XAWQ8U/Mitarbeiter+DevOps+mw+Shared+Hosting/12345/Berlin</guid>
+			<title>Mitarbeiter DevOps (m/w) Shared Hosting</title>
+			<description><![CDATA[<ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul>]]></description>
+			<heroes:stellenAnsichtLink>http://some.domain/r/Z10YPWTUBCLFI13/Mitarbeiter+DevOps+mw+Shared+Hosting/12345/Berlin</heroes:stellenAnsichtLink>
+			<heroes:bewerbungsLink>http://some.domain/r/Z00OGMQP3CCXHO2/Mitarbeiter+DevOps+mw+Shared+Hosting/12345/Berlin</heroes:bewerbungsLink>
+			<heroes:kennziffer>1017</heroes:kennziffer>
+			<heroes:kennzifferkunde></heroes:kennzifferkunde>
+			<heroes:referenznummer></heroes:referenznummer>
+			<heroes:positionanzeige>Mitarbeiter DevOps (m/w) Shared Hosting</heroes:positionanzeige>
+			<heroes:geschaeftsbereich>Company AG</heroes:geschaeftsbereich>
+			<heroes:geschaeftsbereichKey>STR</heroes:geschaeftsbereichKey>
+			<heroes:gesellschaft><![CDATA[Company AG]]></heroes:gesellschaft>
+			<heroes:infotext>COMPANY wurde 1997 gegr&#xfc;ndet und besch&#xe4;ftigt heute 550 Mitarbeiter an zwei Standorten in Deutschland.  Die wichtigsten M&#xe4;rkte sind Deutschland, die Niederlande, Spanien und die T&#xfc;rkei.
+
+Das Hosting-Unternehmen begleitet seine Kunden auf dem Weg in die Digitalisierung. Die Produktpalette reicht von Domains, Websites, Webshops und Online-Speicher &#xfc;ber Office-Pakete und Online-Marketing-Tools bis hin zu individuellen High-End-L&#xf6;sungen und Managed-Hosting. COMPANY hostet vier Millionen Domains f&#xfc;r Kunden weltweit und betreibt &#xfc;ber 60.000 Server in zwei T&#xdc;V-zertifizierten Rechenzentren in Deutschland.
+
+Mit seiner umfassenden Initiative &#x201e;#faireinfacht&#x201c; gestaltet COMPANY Webhosting-Dienste fairer und einfacher. COMPANY bietet seinen Kunden kurze Laufzeiten, eine einfache und schnelle Online-K&#xfc;ndigung sowie eine 30 Tage Geld-zur&#xfc;ck-Garantie &#x2013; f&#xfc;r s&#xe4;mtliche Produkte, auch f&#xfc;r Domains. Zus&#xe4;tzlich setzt COMPANY auf eine transparente Preisdarstellung mit glatten Preisen und ohne Kleingedrucktem.
+
+COMPANY geh&#xf6;rt seit dem 1. April 2017 zur United Internet-Gruppe.</heroes:infotext>
+			<heroes:aufgaben><![CDATA[<ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul>]]></heroes:aufgaben>
+			<heroes:qualifikationen><![CDATA[<ul><li>Sie verf&uuml;gen &uuml;ber ein(e) erfolgreich abgeschlossene(s) Ausbildung/ Studium aus den Bereichen Informatik, Wirtschaftsinformatik, Ingenieurswesen oder Naturwissenschaften und/oder &uuml;ber einschl&auml;gige Berufserfahrung</li></ul>]]></heroes:qualifikationen>
+			<heroes:formattedAufgaben><![CDATA[ 
+				<div id="jobproperty30">
+						<div class="label">Ihr Verantwortungsbereich:</div>
+						<div class="value"><ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedAufgaben>
+			<heroes:formattedQualifikationen><![CDATA[
+				<div id="jobproperty40">
+						<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+						<div class="value"><ul><li>Sie verf&uuml;gen &uuml;ber ein(e) erfolgreich abgeschlossene(s) Ausbildung/ Studium aus den Bereichen Informatik, Wirtschaftsinformatik, Ingenieurswesen oder Naturwissenschaften und/oder &uuml;ber einschl&auml;gige Berufserfahrung</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedQualifikationen>
+			<heroes:formattedZusatzinfo1><![CDATA[
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+			]]></heroes:formattedZusatzinfo1>
+			<heroes:formattedZusatzinfo2><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo2>
+			<heroes:formattedZusatzinfo3><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo3>
+			<heroes:beschaeftigungsart>Festanstellung</heroes:beschaeftigungsart>
+			<heroes:beschaeftigungsartKey></heroes:beschaeftigungsartKey>
+			<heroes:aufgabenbereich>Backend Development</heroes:aufgabenbereich>
+			<heroes:zuBesetzenAb>zum fr&#xfc;hestm&#xf6;glichen Eintrittstermin</heroes:zuBesetzenAb>
+			<heroes:einsatzortSummary>12345 Berlin, Deutschland</heroes:einsatzortSummary>
+			<heroes:einsatzort>Berlin</heroes:einsatzort>
+			<heroes:adresse></heroes:adresse>
+			<heroes:zusatzinfo1>&#x3c;ul>&#x3c;li>&#x3c;b>Freiraum statt Luftnot:&#x3c;/b>&#x3c;/li>&#x3c;/ul></heroes:zusatzinfo1>
+			<heroes:zusatzinfo2></heroes:zusatzinfo2>
+			<heroes:zusatzinfo3></heroes:zusatzinfo3>
+			<heroes:einleitung></heroes:einleitung>
+			<heroes:hotjob>false</heroes:hotjob>
+			<heroes:vacancycount>1</heroes:vacancycount>
+			<heroes:kostenstelle></heroes:kostenstelle>
+			<heroes:postleitzahl>12345</heroes:postleitzahl>
+			<heroes:land>Deutschland</heroes:land>
+			<heroes:plzmeta>12345</heroes:plzmeta>
+			<heroes:anspraushangname>P. Personal</heroes:anspraushangname>
+			<heroes:ansprpersonalemail>job10-personal@telum.de</heroes:ansprpersonalemail>
+			<heroes:anspraushangtel></heroes:anspraushangtel>
+			
+			<heroes:wochenarbeitszeit>null</heroes:wochenarbeitszeit>
+			<heroes:wideDescription><![CDATA[
+			<div id="rss">
+				<div id="description">
+					<div id="jobproperty10">
+						<div class="label">Kennziffer</div>
+						<div class="value">1017</div>
+					</div>
+					<div id="jobproperty20">
+						<div class="label">Gesellschaft</div>
+						<div class="value">Company AG</div>
+					</div>
+					<div id="jobproperty30">
+							<div class="label">Ihr Verantwortungsbereich:</div>
+							<div class="value"><ul><li>Wartung und Instandhaltung einer umfangreichen Datenbankplattform auf Basis von MySQL in gemischter Solaris und Linux Umgebung im 24/7 Rechenzentrumsbetrieb</li></ul></div>
+						</div>
+					<div id="jobproperty40">
+							<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+							<div class="value"><ul><li>Sie verf&uuml;gen &uuml;ber ein(e) erfolgreich abgeschlossene(s) Ausbildung/ Studium aus den Bereichen Informatik, Wirtschaftsinformatik, Ingenieurswesen oder Naturwissenschaften und/oder &uuml;ber einschl&auml;gige Berufserfahrung</li></ul></div>
+						</div>
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+						<div id="jobproperty60">
+							<div class="label">Einsatzort</div>
+							<div class="value">Berlin</div>
+						</div>
+					<div id="jobproperty65">
+							<div class="label">Land</div>
+							<div class="value">Deutschland</div>
+						</div>
+					<div id="jobproperty70">
+							<div class="label">Aufgabenbereich</div>
+							<div class="value">Backend Development</div>
+						</div>
+					<div id="jobproperty80">
+							<div class="label">Besch&#xe4;ftigungsart</div>
+							<div class="value">Festanstellung</div>
+						</div>
+					</div>
+			</div>
+			<!--
+			<nummer>1017</nummer>
+			<ort>Berlin</ort>
+			<land>Deutschland</land>
+			<kontakt>P. Personal</kontakt>
+			<kontakt-telefon>+49 00 11 22 33 </kontakt-telefon>
+			<link>http://some.domain/r/Z007C3AXPYEA4NS</link>
+
+			<plz>12345</plz>
+			<strasse-nr></strasse-nr>
+			<bundesland></bundesland>
+			
+			-->
+			]]></heroes:wideDescription>
+		</item>
+		<item>
+			<link>http://some.domain/r/Z11CM7A6NCR09W1/Mitarbeiter+Systems+Administration+Cloud+Operations+mw/12345/Berlin</link>
+			<pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://some.domain/r/Z11CM7A6NCR09W1/Mitarbeiter+Systems+Administration+Cloud+Operations+mw/12345/Berlin</guid>
+			<title>Mitarbeiter Systems Administration Cloud Operations (m/w)</title>
+			<description><![CDATA[<ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul>]]></description>
+			<heroes:stellenAnsichtLink>http://some.domain/r/Z00B1EPOWOVNCEE/Mitarbeiter+Systems+Administration+Cloud+Operations+mw/12345/Berlin</heroes:stellenAnsichtLink>
+			<heroes:bewerbungsLink>http://some.domain/r/Z11VVGN65HU0K3C/Mitarbeiter+Systems+Administration+Cloud+Operations+mw/12345/Berlin</heroes:bewerbungsLink>
+			<heroes:kennziffer>1018</heroes:kennziffer>
+			<heroes:kennzifferkunde></heroes:kennzifferkunde>
+			<heroes:referenznummer></heroes:referenznummer>
+			<heroes:positionanzeige>Mitarbeiter Systems Administration Cloud Operations (m/w)</heroes:positionanzeige>
+			<heroes:geschaeftsbereich>Company AG</heroes:geschaeftsbereich>
+			<heroes:geschaeftsbereichKey>STR</heroes:geschaeftsbereichKey>
+			<heroes:gesellschaft><![CDATA[Company AG]]></heroes:gesellschaft>
+			<heroes:infotext>COMPANY wurde 1997 gegr&#xfc;ndet und besch&#xe4;ftigt heute 550 Mitarbeiter an zwei Standorten in Deutschland.  Die wichtigsten M&#xe4;rkte sind Deutschland, die Niederlande, Spanien und die T&#xfc;rkei.
+
+Das Hosting-Unternehmen begleitet seine Kunden auf dem Weg in die Digitalisierung. Die Produktpalette reicht von Domains, Websites, Webshops und Online-Speicher &#xfc;ber Office-Pakete und Online-Marketing-Tools bis hin zu individuellen High-End-L&#xf6;sungen und Managed-Hosting. COMPANY hostet vier Millionen Domains f&#xfc;r Kunden weltweit und betreibt &#xfc;ber 60.000 Server in zwei T&#xdc;V-zertifizierten Rechenzentren in Deutschland.
+
+Mit seiner umfassenden Initiative &#x201e;#faireinfacht&#x201c; gestaltet COMPANY Webhosting-Dienste fairer und einfacher. COMPANY bietet seinen Kunden kurze Laufzeiten, eine einfache und schnelle Online-K&#xfc;ndigung sowie eine 30 Tage Geld-zur&#xfc;ck-Garantie &#x2013; f&#xfc;r s&#xe4;mtliche Produkte, auch f&#xfc;r Domains. Zus&#xe4;tzlich setzt COMPANY auf eine transparente Preisdarstellung mit glatten Preisen und ohne Kleingedrucktem.
+
+COMPANY geh&#xf6;rt seit dem 1. April 2017 zur United Internet-Gruppe.</heroes:infotext>
+			<heroes:aufgaben><![CDATA[<ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul>]]></heroes:aufgaben>
+			<heroes:qualifikationen><![CDATA[<ul><li>Sehr gute Kenntnisse und berufliche Erfahrung im Umgang mit UNIX-Systemen</li></ul>]]></heroes:qualifikationen>
+			<heroes:formattedAufgaben><![CDATA[ 
+				<div id="jobproperty30">
+						<div class="label">Ihr Verantwortungsbereich:</div>
+						<div class="value"><ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedAufgaben>
+			<heroes:formattedQualifikationen><![CDATA[
+				<div id="jobproperty40">
+						<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+						<div class="value"><ul><li>Sehr gute Kenntnisse und berufliche Erfahrung im Umgang mit UNIX-Systemen</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedQualifikationen>
+			<heroes:formattedZusatzinfo1><![CDATA[
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+			]]></heroes:formattedZusatzinfo1>
+			<heroes:formattedZusatzinfo2><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo2>
+			<heroes:formattedZusatzinfo3><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo3>
+			<heroes:beschaeftigungsart>Festanstellung</heroes:beschaeftigungsart>
+			<heroes:beschaeftigungsartKey></heroes:beschaeftigungsartKey>
+			<heroes:aufgabenbereich>Technik</heroes:aufgabenbereich>
+			<heroes:zuBesetzenAb>zum fr&#xfc;hestm&#xf6;glichen Eintrittstermin</heroes:zuBesetzenAb>
+			<heroes:einsatzortSummary>12345 Berlin, Deutschland</heroes:einsatzortSummary>
+			<heroes:einsatzort>Berlin</heroes:einsatzort>
+			<heroes:adresse></heroes:adresse>
+			<heroes:zusatzinfo1>&#x3c;ul>&#x3c;li>&#x3c;b>Freiraum statt Luftnot:&#x3c;/b>&#x3c;/li>&#x3c;/ul></heroes:zusatzinfo1>
+			<heroes:zusatzinfo2></heroes:zusatzinfo2>
+			<heroes:zusatzinfo3></heroes:zusatzinfo3>
+			<heroes:einleitung></heroes:einleitung>
+			<heroes:hotjob>false</heroes:hotjob>
+			<heroes:vacancycount>1</heroes:vacancycount>
+			<heroes:kostenstelle></heroes:kostenstelle>
+			<heroes:postleitzahl>12345</heroes:postleitzahl>
+			<heroes:land>Deutschland</heroes:land>
+			<heroes:plzmeta>12345</heroes:plzmeta>
+			<heroes:anspraushangname>P. Personal</heroes:anspraushangname>
+			<heroes:ansprpersonalemail>job10-personal@telum.de</heroes:ansprpersonalemail>
+			<heroes:anspraushangtel></heroes:anspraushangtel>
+			
+			<heroes:wochenarbeitszeit>null</heroes:wochenarbeitszeit>
+			<heroes:wideDescription><![CDATA[
+			<div id="rss">
+				<div id="description">
+					<div id="jobproperty10">
+						<div class="label">Kennziffer</div>
+						<div class="value">1018</div>
+					</div>
+					<div id="jobproperty20">
+						<div class="label">Gesellschaft</div>
+						<div class="value">Company AG</div>
+					</div>
+					<div id="jobproperty30">
+							<div class="label">Ihr Verantwortungsbereich:</div>
+							<div class="value"><ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul></div>
+						</div>
+					<div id="jobproperty40">
+							<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+							<div class="value"><ul><li>Sehr gute Kenntnisse und berufliche Erfahrung im Umgang mit UNIX-Systemen</li></ul></div>
+						</div>
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+						<div id="jobproperty60">
+							<div class="label">Einsatzort</div>
+							<div class="value">Berlin</div>
+						</div>
+					<div id="jobproperty65">
+							<div class="label">Land</div>
+							<div class="value">Deutschland</div>
+						</div>
+					<div id="jobproperty70">
+							<div class="label">Aufgabenbereich</div>
+							<div class="value">Technik</div>
+						</div>
+					<div id="jobproperty80">
+							<div class="label">Besch&#xe4;ftigungsart</div>
+							<div class="value">Festanstellung</div>
+						</div>
+					</div>
+			</div>
+			<!--
+			<nummer>1018</nummer>
+			<ort>Berlin</ort>
+			<land>Deutschland</land>
+			<kontakt>P. Personal</kontakt>
+			<kontakt-telefon>+49 00 11 22 33 </kontakt-telefon>
+			<link>http://some.domain/r/Z01I0J69PX5BX9Y</link>
+
+			<plz>12345</plz>
+			<strasse-nr></strasse-nr>
+			<bundesland></bundesland>
+			
+			-->
+			]]></heroes:wideDescription>
+		</item>
+		<item>
+			<link>http://some.domain/r/Z00RTJ63HLJRF0H/Mitarbeiter+Systems+Administration+Shared+Hosting+Services+mw/12345/Berlin</link>
+			<pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://some.domain/r/Z00RTJ63HLJRF0H/Mitarbeiter+Systems+Administration+Shared+Hosting+Services+mw/12345/Berlin</guid>
+			<title>Mitarbeiter Systems Administration Shared Hosting Services (m/w)</title>
+			<description><![CDATA[<ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul>]]></description>
+			<heroes:stellenAnsichtLink>http://some.domain/r/Z026FYNBRBWY85J/Mitarbeiter+Systems+Administration+Shared+Hosting+Services+mw/12345/Berlin</heroes:stellenAnsichtLink>
+			<heroes:bewerbungsLink>http://some.domain/r/Z01HJ1ORMXTM2WG/Mitarbeiter+Systems+Administration+Shared+Hosting+Services+mw/12345/Berlin</heroes:bewerbungsLink>
+			<heroes:kennziffer>1020</heroes:kennziffer>
+			<heroes:kennzifferkunde></heroes:kennzifferkunde>
+			<heroes:referenznummer></heroes:referenznummer>
+			<heroes:positionanzeige>Mitarbeiter Systems Administration Shared Hosting Services (m/w)</heroes:positionanzeige>
+			<heroes:geschaeftsbereich>Company AG</heroes:geschaeftsbereich>
+			<heroes:geschaeftsbereichKey>STR</heroes:geschaeftsbereichKey>
+			<heroes:gesellschaft><![CDATA[Company AG]]></heroes:gesellschaft>
+			<heroes:infotext>COMPANY wurde 1997 gegr&#xfc;ndet und besch&#xe4;ftigt heute 550 Mitarbeiter an zwei Standorten in Deutschland.  Die wichtigsten M&#xe4;rkte sind Deutschland, die Niederlande, Spanien und die T&#xfc;rkei.
+
+Das Hosting-Unternehmen begleitet seine Kunden auf dem Weg in die Digitalisierung. Die Produktpalette reicht von Domains, Websites, Webshops und Online-Speicher &#xfc;ber Office-Pakete und Online-Marketing-Tools bis hin zu individuellen High-End-L&#xf6;sungen und Managed-Hosting. COMPANY hostet vier Millionen Domains f&#xfc;r Kunden weltweit und betreibt &#xfc;ber 60.000 Server in zwei T&#xdc;V-zertifizierten Rechenzentren in Deutschland.
+
+Mit seiner umfassenden Initiative &#x201e;#faireinfacht&#x201c; gestaltet COMPANY Webhosting-Dienste fairer und einfacher. COMPANY bietet seinen Kunden kurze Laufzeiten, eine einfache und schnelle Online-K&#xfc;ndigung sowie eine 30 Tage Geld-zur&#xfc;ck-Garantie &#x2013; f&#xfc;r s&#xe4;mtliche Produkte, auch f&#xfc;r Domains. Zus&#xe4;tzlich setzt COMPANY auf eine transparente Preisdarstellung mit glatten Preisen und ohne Kleingedrucktem.
+
+COMPANY geh&#xf6;rt seit dem 1. April 2017 zur United Internet-Gruppe.</heroes:infotext>
+			<heroes:aufgaben><![CDATA[<ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul>]]></heroes:aufgaben>
+			<heroes:qualifikationen><![CDATA[<ul><li>Sehr gute Kenntnisse und berufliche Erfahrung im Umgang mit UNIX-Systemen</li></ul>]]></heroes:qualifikationen>
+			<heroes:formattedAufgaben><![CDATA[ 
+				<div id="jobproperty30">
+						<div class="label">Ihr Verantwortungsbereich:</div>
+						<div class="value"><ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedAufgaben>
+			<heroes:formattedQualifikationen><![CDATA[
+				<div id="jobproperty40">
+						<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+						<div class="value"><ul><li>Sehr gute Kenntnisse und berufliche Erfahrung im Umgang mit UNIX-Systemen</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedQualifikationen>
+			<heroes:formattedZusatzinfo1><![CDATA[
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+			]]></heroes:formattedZusatzinfo1>
+			<heroes:formattedZusatzinfo2><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo2>
+			<heroes:formattedZusatzinfo3><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo3>
+			<heroes:beschaeftigungsart>Festanstellung</heroes:beschaeftigungsart>
+			<heroes:beschaeftigungsartKey></heroes:beschaeftigungsartKey>
+			<heroes:aufgabenbereich>Technik</heroes:aufgabenbereich>
+			<heroes:zuBesetzenAb>zum fr&#xfc;hestm&#xf6;glichen Eintrittstermin</heroes:zuBesetzenAb>
+			<heroes:einsatzortSummary>12345 Berlin, Deutschland</heroes:einsatzortSummary>
+			<heroes:einsatzort>Berlin</heroes:einsatzort>
+			<heroes:adresse></heroes:adresse>
+			<heroes:zusatzinfo1>&#x3c;ul>&#x3c;li>&#x3c;b>Freiraum statt Luftnot:&#x3c;/b>&#x3c;/li>&#x3c;/ul></heroes:zusatzinfo1>
+			<heroes:zusatzinfo2></heroes:zusatzinfo2>
+			<heroes:zusatzinfo3></heroes:zusatzinfo3>
+			<heroes:einleitung></heroes:einleitung>
+			<heroes:hotjob>false</heroes:hotjob>
+			<heroes:vacancycount>1</heroes:vacancycount>
+			<heroes:kostenstelle></heroes:kostenstelle>
+			<heroes:postleitzahl>12345</heroes:postleitzahl>
+			<heroes:land>Deutschland</heroes:land>
+			<heroes:plzmeta>12345</heroes:plzmeta>
+			<heroes:anspraushangname>P. Personal</heroes:anspraushangname>
+			<heroes:ansprpersonalemail>job10-personal@telum.de</heroes:ansprpersonalemail>
+			<heroes:anspraushangtel></heroes:anspraushangtel>
+			
+			<heroes:wochenarbeitszeit>null</heroes:wochenarbeitszeit>
+			<heroes:wideDescription><![CDATA[
+			<div id="rss">
+				<div id="description">
+					<div id="jobproperty10">
+						<div class="label">Kennziffer</div>
+						<div class="value">1020</div>
+					</div>
+					<div id="jobproperty20">
+						<div class="label">Gesellschaft</div>
+						<div class="value">Company AG</div>
+					</div>
+					<div id="jobproperty30">
+							<div class="label">Ihr Verantwortungsbereich:</div>
+							<div class="value"><ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul></div>
+						</div>
+					<div id="jobproperty40">
+							<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+							<div class="value"><ul><li>Sehr gute Kenntnisse und berufliche Erfahrung im Umgang mit UNIX-Systemen</li></ul></div>
+						</div>
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+						<div id="jobproperty60">
+							<div class="label">Einsatzort</div>
+							<div class="value">Berlin</div>
+						</div>
+					<div id="jobproperty65">
+							<div class="label">Land</div>
+							<div class="value">Deutschland</div>
+						</div>
+					<div id="jobproperty70">
+							<div class="label">Aufgabenbereich</div>
+							<div class="value">Technik</div>
+						</div>
+					<div id="jobproperty80">
+							<div class="label">Besch&#xe4;ftigungsart</div>
+							<div class="value">Festanstellung</div>
+						</div>
+					</div>
+			</div>
+			<!--
+			<nummer>1020</nummer>
+			<ort>Berlin</ort>
+			<land>Deutschland</land>
+			<kontakt>P. Personal</kontakt>
+			<kontakt-telefon>+49 00 11 22 33 </kontakt-telefon>
+			<link>http://some.domain/r/Z00NCV4SQXRV31Q</link>
+
+			<plz>12345</plz>
+			<strasse-nr></strasse-nr>
+			<bundesland></bundesland>
+			
+			-->
+			]]></heroes:wideDescription>
+		</item>
+		<item>
+			<link>http://some.domain/r/Z01U978P3CGCOMS/niederl%C3%A4ndischer+COMPANY-Experte+mw/12345/Berlin</link>
+			<pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://some.domain/r/Z01U978P3CGCOMS/niederl%C3%A4ndischer+COMPANY-Experte+mw/12345/Berlin</guid>
+			<title>niederl&#xe4;ndischer COMPANY-Experte (m/w)</title>
+			<description><![CDATA[<ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul>]]></description>
+			<heroes:stellenAnsichtLink>http://some.domain/r/Z12MCWABYYFGD2E/niederl%C3%A4ndischer+COMPANY-Experte+mw/12345/Berlin</heroes:stellenAnsichtLink>
+			<heroes:bewerbungsLink>http://some.domain/r/Z10Y9W1FMMUV98F/niederl%C3%A4ndischer+COMPANY-Experte+mw/12345/Berlin</heroes:bewerbungsLink>
+			<heroes:kennziffer>1009</heroes:kennziffer>
+			<heroes:kennzifferkunde></heroes:kennzifferkunde>
+			<heroes:referenznummer></heroes:referenznummer>
+			<heroes:positionanzeige>niederl&#x26;#xe4;ndischer COMPANY-Experte (m/w)</heroes:positionanzeige>
+			<heroes:geschaeftsbereich>Company AG</heroes:geschaeftsbereich>
+			<heroes:geschaeftsbereichKey>STR</heroes:geschaeftsbereichKey>
+			<heroes:gesellschaft><![CDATA[Company AG]]></heroes:gesellschaft>
+			<heroes:infotext>COMPANY wurde 1997 gegr&#xfc;ndet und besch&#xe4;ftigt heute 550 Mitarbeiter an zwei Standorten in Deutschland.  Die wichtigsten M&#xe4;rkte sind Deutschland, die Niederlande, Spanien und die T&#xfc;rkei.
+
+Das Hosting-Unternehmen begleitet seine Kunden auf dem Weg in die Digitalisierung. Die Produktpalette reicht von Domains, Websites, Webshops und Online-Speicher &#xfc;ber Office-Pakete und Online-Marketing-Tools bis hin zu individuellen High-End-L&#xf6;sungen und Managed-Hosting. COMPANY hostet vier Millionen Domains f&#xfc;r Kunden weltweit und betreibt &#xfc;ber 60.000 Server in zwei T&#xdc;V-zertifizierten Rechenzentren in Deutschland.
+
+Mit seiner umfassenden Initiative &#x201e;#faireinfacht&#x201c; gestaltet COMPANY Webhosting-Dienste fairer und einfacher. COMPANY bietet seinen Kunden kurze Laufzeiten, eine einfache und schnelle Online-K&#xfc;ndigung sowie eine 30 Tage Geld-zur&#xfc;ck-Garantie &#x2013; f&#xfc;r s&#xe4;mtliche Produkte, auch f&#xfc;r Domains. Zus&#xe4;tzlich setzt COMPANY auf eine transparente Preisdarstellung mit glatten Preisen und ohne Kleingedrucktem.
+
+COMPANY geh&#xf6;rt seit dem 1. April 2017 zur United Internet-Gruppe.</heroes:infotext>
+			<heroes:aufgaben><![CDATA[<ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul>]]></heroes:aufgaben>
+			<heroes:qualifikationen><![CDATA[<ul><li>Sie bereichern unser Team mit Ihrem l&ouml;sungsorientiertem Service-Gedanken, Ihrer Kommunikationsst&auml;rke und einem guten technischen Grundverst&auml;ndnis.</li></ul>]]></heroes:qualifikationen>
+			<heroes:formattedAufgaben><![CDATA[ 
+				<div id="jobproperty30">
+						<div class="label">Ihr Verantwortungsbereich:</div>
+						<div class="value"><ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedAufgaben>
+			<heroes:formattedQualifikationen><![CDATA[
+				<div id="jobproperty40">
+						<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+						<div class="value"><ul><li>Sie bereichern unser Team mit Ihrem l&ouml;sungsorientiertem Service-Gedanken, Ihrer Kommunikationsst&auml;rke und einem guten technischen Grundverst&auml;ndnis.</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedQualifikationen>
+			<heroes:formattedZusatzinfo1><![CDATA[
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Wohlf&uuml;hlatmosph&auml;re statt Unwohlsein:</b></li></ul></div>
+						</div>
+			]]></heroes:formattedZusatzinfo1>
+			<heroes:formattedZusatzinfo2><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo2>
+			<heroes:formattedZusatzinfo3><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo3>
+			<heroes:beschaeftigungsart>Festanstellung</heroes:beschaeftigungsart>
+			<heroes:beschaeftigungsartKey></heroes:beschaeftigungsartKey>
+			<heroes:aufgabenbereich>Kundenservice</heroes:aufgabenbereich>
+			<heroes:zuBesetzenAb>zum fr&#xfc;hestm&#xf6;glichen Eintrittstermin</heroes:zuBesetzenAb>
+			<heroes:einsatzortSummary>12345 Berlin, Deutschland</heroes:einsatzortSummary>
+			<heroes:einsatzort>Berlin</heroes:einsatzort>
+			<heroes:adresse></heroes:adresse>
+			<heroes:zusatzinfo1>&#x3c;ul>&#x3c;li>&#x3c;b>Wohlf&#x26;uuml;hlatmosph&#x26;auml;re statt Unwohlsein:&#x3c;/b>&#x3c;/li>&#x3c;/ul></heroes:zusatzinfo1>
+			<heroes:zusatzinfo2></heroes:zusatzinfo2>
+			<heroes:zusatzinfo3></heroes:zusatzinfo3>
+			<heroes:einleitung></heroes:einleitung>
+			<heroes:hotjob>false</heroes:hotjob>
+			<heroes:vacancycount>1</heroes:vacancycount>
+			<heroes:kostenstelle></heroes:kostenstelle>
+			<heroes:postleitzahl>12345</heroes:postleitzahl>
+			<heroes:land>Deutschland</heroes:land>
+			<heroes:plzmeta>12345</heroes:plzmeta>
+			<heroes:anspraushangname>P. Personal</heroes:anspraushangname>
+			<heroes:ansprpersonalemail>job10-personal@telum.de</heroes:ansprpersonalemail>
+			<heroes:anspraushangtel></heroes:anspraushangtel>
+			
+			<heroes:wochenarbeitszeit>null</heroes:wochenarbeitszeit>
+			<heroes:wideDescription><![CDATA[
+			<div id="rss">
+				<div id="description">
+					<div id="jobproperty10">
+						<div class="label">Kennziffer</div>
+						<div class="value">1009</div>
+					</div>
+					<div id="jobproperty20">
+						<div class="label">Gesellschaft</div>
+						<div class="value">Company AG</div>
+					</div>
+					<div id="jobproperty30">
+							<div class="label">Ihr Verantwortungsbereich:</div>
+							<div class="value"><ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul></div>
+						</div>
+					<div id="jobproperty40">
+							<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+							<div class="value"><ul><li>Sie bereichern unser Team mit Ihrem l&ouml;sungsorientiertem Service-Gedanken, Ihrer Kommunikationsst&auml;rke und einem guten technischen Grundverst&auml;ndnis.</li></ul></div>
+						</div>
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Wohlf&uuml;hlatmosph&auml;re statt Unwohlsein:</b></li></ul></div>
+						</div>
+						<div id="jobproperty60">
+							<div class="label">Einsatzort</div>
+							<div class="value">Berlin</div>
+						</div>
+					<div id="jobproperty65">
+							<div class="label">Land</div>
+							<div class="value">Deutschland</div>
+						</div>
+					<div id="jobproperty70">
+							<div class="label">Aufgabenbereich</div>
+							<div class="value">Kundenservice</div>
+						</div>
+					<div id="jobproperty80">
+							<div class="label">Besch&#xe4;ftigungsart</div>
+							<div class="value">Festanstellung</div>
+						</div>
+					</div>
+			</div>
+			<!--
+			<nummer>1009</nummer>
+			<ort>Berlin</ort>
+			<land>Deutschland</land>
+			<kontakt>P. Personal</kontakt>
+			<kontakt-telefon>+49 00 11 22 33 </kontakt-telefon>
+			<link>http://some.domain/r/Z105KEVGXVD2138</link>
+
+			<plz>12345</plz>
+			<strasse-nr></strasse-nr>
+			<bundesland></bundesland>
+			
+			-->
+			]]></heroes:wideDescription>
+		</item>
+		<item>
+			<link>http://some.domain/r/Z11XG5UN9JAN1EG/Professional+mw+2nd+LevelOffice365/12345+/Berlin</link>
+			<pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://some.domain/r/Z11XG5UN9JAN1EG/Professional+mw+2nd+LevelOffice365/12345+/Berlin</guid>
+			<title>Professional (m/w) 2nd Level/Office365</title>
+			<description><![CDATA[<ul><li>Erster Ansprechpartner f&uuml;r Gesch&auml;ftskunden im Besonderen via Telefon</li></ul>]]></description>
+			<heroes:stellenAnsichtLink>http://some.domain/r/Z02M4DFSRXBPGJO/Professional+mw+2nd+LevelOffice365/12345+/Berlin</heroes:stellenAnsichtLink>
+			<heroes:bewerbungsLink>http://some.domain/r/Z025MPBKKE054AB/Professional+mw+2nd+LevelOffice365/12345+/Berlin</heroes:bewerbungsLink>
+			<heroes:kennziffer>1007</heroes:kennziffer>
+			<heroes:kennzifferkunde></heroes:kennzifferkunde>
+			<heroes:referenznummer></heroes:referenznummer>
+			<heroes:positionanzeige>Professional (m/w) 2nd Level/Office365</heroes:positionanzeige>
+			<heroes:geschaeftsbereich>Company AG</heroes:geschaeftsbereich>
+			<heroes:geschaeftsbereichKey>STR</heroes:geschaeftsbereichKey>
+			<heroes:gesellschaft><![CDATA[Company AG]]></heroes:gesellschaft>
+			<heroes:infotext>COMPANY wurde 1997 gegr&#xfc;ndet und besch&#xe4;ftigt heute 550 Mitarbeiter an zwei Standorten in Deutschland.  Die wichtigsten M&#xe4;rkte sind Deutschland, die Niederlande, Spanien und die T&#xfc;rkei.
+
+Das Hosting-Unternehmen begleitet seine Kunden auf dem Weg in die Digitalisierung. Die Produktpalette reicht von Domains, Websites, Webshops und Online-Speicher &#xfc;ber Office-Pakete und Online-Marketing-Tools bis hin zu individuellen High-End-L&#xf6;sungen und Managed-Hosting. COMPANY hostet vier Millionen Domains f&#xfc;r Kunden weltweit und betreibt &#xfc;ber 60.000 Server in zwei T&#xdc;V-zertifizierten Rechenzentren in Deutschland.
+
+Mit seiner umfassenden Initiative &#x201e;#faireinfacht&#x201c; gestaltet COMPANY Webhosting-Dienste fairer und einfacher. COMPANY bietet seinen Kunden kurze Laufzeiten, eine einfache und schnelle Online-K&#xfc;ndigung sowie eine 30 Tage Geld-zur&#xfc;ck-Garantie &#x2013; f&#xfc;r s&#xe4;mtliche Produkte, auch f&#xfc;r Domains. Zus&#xe4;tzlich setzt COMPANY auf eine transparente Preisdarstellung mit glatten Preisen und ohne Kleingedrucktem.
+
+COMPANY geh&#xf6;rt seit dem 1. April 2017 zur United Internet-Gruppe.</heroes:infotext>
+			<heroes:aufgaben><![CDATA[<ul><li>Erster Ansprechpartner f&uuml;r Gesch&auml;ftskunden im Besonderen via Telefon</li></ul>]]></heroes:aufgaben>
+			<heroes:qualifikationen><![CDATA[<ul><li>Erfahrung im Kundenumgang (2nd Level) und Berufserfahrung im IT-Umfeld</li></ul>]]></heroes:qualifikationen>
+			<heroes:formattedAufgaben><![CDATA[ 
+				<div id="jobproperty30">
+						<div class="label">Ihr Verantwortungsbereich:</div>
+						<div class="value"><ul><li>Erster Ansprechpartner f&uuml;r Gesch&auml;ftskunden im Besonderen via Telefon</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedAufgaben>
+			<heroes:formattedQualifikationen><![CDATA[
+				<div id="jobproperty40">
+						<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+						<div class="value"><ul><li>Erfahrung im Kundenumgang (2nd Level) und Berufserfahrung im IT-Umfeld</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedQualifikationen>
+			<heroes:formattedZusatzinfo1><![CDATA[
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+			]]></heroes:formattedZusatzinfo1>
+			<heroes:formattedZusatzinfo2><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo2>
+			<heroes:formattedZusatzinfo3><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo3>
+			<heroes:beschaeftigungsart>Festanstellung</heroes:beschaeftigungsart>
+			<heroes:beschaeftigungsartKey></heroes:beschaeftigungsartKey>
+			<heroes:aufgabenbereich>Business Unit</heroes:aufgabenbereich>
+			<heroes:zuBesetzenAb>zum fr&#xfc;hestm&#xf6;glichen Eintrittstermin</heroes:zuBesetzenAb>
+			<heroes:einsatzortSummary>12345 Berlin, Deutschland</heroes:einsatzortSummary>
+			<heroes:einsatzort>Berlin</heroes:einsatzort>
+			<heroes:adresse>Company AG
+Personalabteilung 
+Foostra&#xdf;e 10, 12345  Berlin
+Deutschland
+</heroes:adresse>
+			<heroes:zusatzinfo1>&#x3c;ul>&#x3c;li>&#x3c;b>Freiraum statt Luftnot:&#x3c;/b>&#x3c;/li>&#x3c;/ul></heroes:zusatzinfo1>
+			<heroes:zusatzinfo2></heroes:zusatzinfo2>
+			<heroes:zusatzinfo3></heroes:zusatzinfo3>
+			<heroes:einleitung></heroes:einleitung>
+			<heroes:hotjob>false</heroes:hotjob>
+			<heroes:vacancycount>2</heroes:vacancycount>
+			<heroes:kostenstelle></heroes:kostenstelle>
+			<heroes:postleitzahl>12345</heroes:postleitzahl>
+			<heroes:land>Deutschland</heroes:land>
+			<heroes:plzmeta>12345</heroes:plzmeta>
+			<heroes:anspraushangname>P. Personal</heroes:anspraushangname>
+			<heroes:ansprpersonalemail>job10-personal@telum.de</heroes:ansprpersonalemail>
+			<heroes:anspraushangtel></heroes:anspraushangtel>
+			
+			<heroes:wochenarbeitszeit>null</heroes:wochenarbeitszeit>
+			<heroes:wideDescription><![CDATA[
+			<div id="rss">
+				<div id="description">
+					<div id="jobproperty10">
+						<div class="label">Kennziffer</div>
+						<div class="value">1007</div>
+					</div>
+					<div id="jobproperty20">
+						<div class="label">Gesellschaft</div>
+						<div class="value">Company AG</div>
+					</div>
+					<div id="jobproperty30">
+							<div class="label">Ihr Verantwortungsbereich:</div>
+							<div class="value"><ul><li>Erster Ansprechpartner f&uuml;r Gesch&auml;ftskunden im Besonderen via Telefon</li></ul></div>
+						</div>
+					<div id="jobproperty40">
+							<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+							<div class="value"><ul><li>Erfahrung im Kundenumgang (2nd Level) und Berufserfahrung im IT-Umfeld</li></ul></div>
+						</div>
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+						<div id="jobproperty60">
+							<div class="label">Einsatzort</div>
+							<div class="value">Berlin</div>
+						</div>
+					<div id="jobproperty65">
+							<div class="label">Land</div>
+							<div class="value">Deutschland</div>
+						</div>
+					<div id="jobproperty70">
+							<div class="label">Aufgabenbereich</div>
+							<div class="value">Business Unit</div>
+						</div>
+					<div id="jobproperty80">
+							<div class="label">Besch&#xe4;ftigungsart</div>
+							<div class="value">Festanstellung</div>
+						</div>
+					<div id="jobproperty90">
+						<div class="label">Adresse</div>
+						<div class="value"> Company AG<br>Personalabteilung <br>Foostra&#xdf;e 10, 12345  Berlin<br>Deutschland
+</div>
+						</div>
+					</div>
+			</div>
+			<!--
+			<nummer>1007</nummer>
+			<ort>Berlin</ort>
+			<land>Deutschland</land>
+			<kontakt>P. Personal</kontakt>
+			<kontakt-telefon>+49 00 11 22 33 </kontakt-telefon>
+			<link>http://some.domain/r/Z10LFAV4QEXSVK3</link>
+
+			<plz>12345</plz>
+			<strasse-nr></strasse-nr>
+			<bundesland></bundesland>
+			
+			-->
+			]]></heroes:wideDescription>
+		</item>
+		<item>
+			<link>http://some.domain/r/Z012X4RXWREIL6W/Senior+Account+Manager+mw+Business+Solutions/12345/Berlin</link>
+			<pubDate>Tue, 21 Nov 2017 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://some.domain/r/Z012X4RXWREIL6W/Senior+Account+Manager+mw+Business+Solutions/12345/Berlin</guid>
+			<title>Senior Account Manager (m/w) Business Solutions</title>
+			<description><![CDATA[<ul><li>Gewinnung und Pflege von Kundenbeziehungen im Direktvertrieb bei Bestands- und Neukunden in den Branchen Verlage, Internet, Medien, Retail, Multichannel, etc.</li>
+<li>Erfahrungen in Managed Hosting- und Cloud Computing Projekten</li>
+<li>Erreichen der individuellen- und Team-Ziele</li>
+<li>Technische und vertriebliche Expertise in Bezug auf Hersteller und Kunden</li>
+<li>Entscheidungswege beim Kunden erkennen, festlegen und danach handeln</li>
+<li>Erstellung von nutzenorientierten L&ouml;sungskonzepten und Pr&auml;sentationen</li>
+<li>Unterst&uuml;tzung bei der Kundenqualifizierung und Ermittlung zus&auml;tzlicher Umsatzpotentiale</li>
+<li>W&ouml;chentliches Vertriebsreporting</li></ul>]]></description>
+			<heroes:htmlStellenAnsichtLink>http://some.domain/r/Z01Y6OF19U399SE/Senior+Account+Manager+mw+Business+Solutions/12345/Berlin</heroes:htmlStellenAnsichtLink>
+			<heroes:stellenAnsichtLink>http://some.domain/r/Z02OSP76D1MKCBP/Senior+Account+Manager+mw+Business+Solutions/12345/Berlin</heroes:stellenAnsichtLink>
+			<heroes:bewerbungsLink>http://some.domain/r/Z10D087F822OHX5/Senior+Account+Manager+mw+Business+Solutions/12345/Berlin</heroes:bewerbungsLink>
+			<heroes:kennziffer>1001</heroes:kennziffer>
+			<heroes:kennzifferkunde></heroes:kennzifferkunde>
+			<heroes:referenznummer></heroes:referenznummer>
+			<heroes:positionanzeige>Senior Account Manager (m/w) Business Solutions</heroes:positionanzeige>
+			<heroes:geschaeftsbereich>Company AG</heroes:geschaeftsbereich>
+			<heroes:geschaeftsbereichKey>STR</heroes:geschaeftsbereichKey>
+			<heroes:gesellschaft><![CDATA[Company AG]]></heroes:gesellschaft>
+			<heroes:infotext>COMPANY wurde 1997 gegr&#xfc;ndet und besch&#xe4;ftigt heute 550 Mitarbeiter an zwei Standorten in Deutschland.  Die wichtigsten M&#xe4;rkte sind Deutschland, die Niederlande, Spanien und die T&#xfc;rkei.
+
+Das Hosting-Unternehmen begleitet seine Kunden auf dem Weg in die Digitalisierung. Die Produktpalette reicht von Domains, Websites, Webshops und Online-Speicher &#xfc;ber Office-Pakete und Online-Marketing-Tools bis hin zu individuellen High-End-L&#xf6;sungen und Managed-Hosting. COMPANY hostet vier Millionen Domains f&#xfc;r Kunden weltweit und betreibt &#xfc;ber 60.000 Server in zwei T&#xdc;V-zertifizierten Rechenzentren in Deutschland.
+
+Mit seiner umfassenden Initiative &#x201e;#faireinfacht&#x201c; gestaltet COMPANY Webhosting-Dienste fairer und einfacher. COMPANY bietet seinen Kunden kurze Laufzeiten, eine einfache und schnelle Online-K&#xfc;ndigung sowie eine 30 Tage Geld-zur&#xfc;ck-Garantie &#x2013; f&#xfc;r s&#xe4;mtliche Produkte, auch f&#xfc;r Domains. Zus&#xe4;tzlich setzt COMPANY auf eine transparente Preisdarstellung mit glatten Preisen und ohne Kleingedrucktem.
+
+COMPANY geh&#xf6;rt seit dem 1. April 2017 zur United Internet-Gruppe.</heroes:infotext>
+			<heroes:aufgaben><![CDATA[<ul><li>Gewinnung und Pflege von Kundenbeziehungen im Direktvertrieb bei Bestands- und Neukunden in den Branchen Verlage, Internet, Medien, Retail, Multichannel, etc.</li>
+<li>Erfahrungen in Managed Hosting- und Cloud Computing Projekten</li>
+<li>Erreichen der individuellen- und Team-Ziele</li>
+<li>Technische und vertriebliche Expertise in Bezug auf Hersteller und Kunden</li>
+<li>Entscheidungswege beim Kunden erkennen, festlegen und danach handeln</li>
+<li>Erstellung von nutzenorientierten L&ouml;sungskonzepten und Pr&auml;sentationen</li>
+<li>Unterst&uuml;tzung bei der Kundenqualifizierung und Ermittlung zus&auml;tzlicher Umsatzpotentiale</li>
+<li>W&ouml;chentliches Vertriebsreporting</li></ul>]]></heroes:aufgaben>
+			<heroes:qualifikationen><![CDATA[<ul><li>Abgeschlossenes Studium oder entsprechende fachspezifische Ausbildung</li>
+<li>Angemessene Berufserfahrung in den Bereichen Vertrieb &amp; Account-Management bei Gesch&auml;ftskunden in der IT oder Telekommunikation</li>
+<li>Vertriebsorientierung und sehr gute Kommunikations- und Pr&auml;sentationsfertigkeiten</li>
+<li>Vorhandenes Kundennetzwerk und Spa&szlig; am Networking</li>
+<li>Fundierte technische Kenntnisse in den Themenbereichen Managed Hosting Services, Virtualisierung (VMware, Hyper-V) und Cloud Computing (Openstack, AWS, Google, Microsoft, Public- und Private Clouds)</li>
+<li>Gutes Verst&auml;ndnis von den Prozessen und Entscheidungsstrukturen bei Gesch&auml;ftskunden</li>
+<li>Ausgepr&auml;gte Ziel-, Ergebnisorientierung und die F&auml;higkeit vertrauensvolle Beziehungen aufzubauen</li>
+<li>&Uuml;berzeugendes, selbst&auml;ndiges und eigenverantwortliches Auftreten und strukturierte Arbeitsweise</li>
+<li>Verhandlungssicheres Englisch- und Deutschkenntnisse in Wort und Schrift</li>
+<li>Sehr gute EDV-Kenntnisse (MS-Office, Salesforce)</li>
+<li>Reisebereitschaft deutschlandweit</li></ul>]]></heroes:qualifikationen>
+			<heroes:formattedAufgaben><![CDATA[ 
+				<div id="jobproperty30">
+						<div class="label">Ihr Verantwortungsbereich:</div>
+						<div class="value"><ul><li>Gewinnung und Pflege von Kundenbeziehungen im Direktvertrieb bei Bestands- und Neukunden in den Branchen Verlage, Internet, Medien, Retail, Multichannel, etc.</li>
+<li>Erfahrungen in Managed Hosting- und Cloud Computing Projekten</li>
+<li>Erreichen der individuellen- und Team-Ziele</li>
+<li>Technische und vertriebliche Expertise in Bezug auf Hersteller und Kunden</li>
+<li>Entscheidungswege beim Kunden erkennen, festlegen und danach handeln</li>
+<li>Erstellung von nutzenorientierten L&ouml;sungskonzepten und Pr&auml;sentationen</li>
+<li>Unterst&uuml;tzung bei der Kundenqualifizierung und Ermittlung zus&auml;tzlicher Umsatzpotentiale</li>
+<li>W&ouml;chentliches Vertriebsreporting</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedAufgaben>
+			<heroes:formattedQualifikationen><![CDATA[
+				<div id="jobproperty40">
+						<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+						<div class="value"><ul><li>Abgeschlossenes Studium oder entsprechende fachspezifische Ausbildung</li>
+<li>Angemessene Berufserfahrung in den Bereichen Vertrieb &amp; Account-Management bei Gesch&auml;ftskunden in der IT oder Telekommunikation</li>
+<li>Vertriebsorientierung und sehr gute Kommunikations- und Pr&auml;sentationsfertigkeiten</li>
+<li>Vorhandenes Kundennetzwerk und Spa&szlig; am Networking</li>
+<li>Fundierte technische Kenntnisse in den Themenbereichen Managed Hosting Services, Virtualisierung (VMware, Hyper-V) und Cloud Computing (Openstack, AWS, Google, Microsoft, Public- und Private Clouds)</li>
+<li>Gutes Verst&auml;ndnis von den Prozessen und Entscheidungsstrukturen bei Gesch&auml;ftskunden</li>
+<li>Ausgepr&auml;gte Ziel-, Ergebnisorientierung und die F&auml;higkeit vertrauensvolle Beziehungen aufzubauen</li>
+<li>&Uuml;berzeugendes, selbst&auml;ndiges und eigenverantwortliches Auftreten und strukturierte Arbeitsweise</li>
+<li>Verhandlungssicheres Englisch- und Deutschkenntnisse in Wort und Schrift</li>
+<li>Sehr gute EDV-Kenntnisse (MS-Office, Salesforce)</li>
+<li>Reisebereitschaft deutschlandweit</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedQualifikationen>
+			<heroes:formattedZusatzinfo1><![CDATA[
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li>Freiraum statt Luftnot:</li></ul>
+Gute Ideen brauchen Platz zum Atmen. Wir geben Ihnen, was Sie brauchen: Flexible Arbeitszeiten sind bei uns Standard.<br />
+<ul><li>Wohlf&uuml;hlatmosph&auml;re statt Unwohlsein:</li></ul>
+Mit rund 500 Mitarbeitern sind wir nicht zu klein und nicht zu gro&szlig;. Wer Arbeiten in angenehmer, famili&auml;rer Atmosph&auml;re sch&auml;tzt, f&uuml;hlt sich bei uns wohl.<br />
+<ul><li>BENEFITS STATT 08/15:</li></ul>
+Kostenloses Obst &amp; Getr&auml;nke, Unfallversicherung, reduzierte Fitnessstudio-Beitr&auml;ge, rabattierte COMPANY Produkte sowie Bezuschussung eines Monatstickets f&uuml;r Bus und Bahn sind bei COMPANY inklusive.<br />
+<ul><li>Wir wertsch&auml;tzen:</li></ul>
+Vielfalt und begr&uuml;&szlig;en daher alle Bewerbungen &ndash; unabh&auml;ngig von Geschlecht, Nationalit&auml;t, ethnischer und sozialer Herkunft, Religion/ Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identit&auml;t.<br />
+<br />
+</div>
+						</div>
+			]]></heroes:formattedZusatzinfo1>
+			<heroes:formattedZusatzinfo2><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo2>
+			<heroes:formattedZusatzinfo3><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo3>
+			<heroes:beschaeftigungsart>Festanstellung</heroes:beschaeftigungsart>
+			<heroes:beschaeftigungsartKey></heroes:beschaeftigungsartKey>
+			<heroes:aufgabenbereich>Vertrieb</heroes:aufgabenbereich>
+			<heroes:zuBesetzenAb>zum fr&#xfc;hestm&#xf6;glichen Eintrittstermin</heroes:zuBesetzenAb>
+			<heroes:einsatzortSummary>12345 Berlin, Deutschland</heroes:einsatzortSummary>
+			<heroes:einsatzort>Berlin</heroes:einsatzort>
+			<heroes:adresse></heroes:adresse>
+			<heroes:zusatzinfo1>&#x3c;ul>&#x3c;li>Freiraum statt Luftnot:&#x3c;/li>&#x3c;/ul>
+Gute Ideen brauchen Platz zum Atmen. Wir geben Ihnen, was Sie brauchen: Flexible Arbeitszeiten sind bei uns Standard.&#x3c;br />
+&#x3c;ul>&#x3c;li>Wohlf&#x26;uuml;hlatmosph&#x26;auml;re statt Unwohlsein:&#x3c;/li>&#x3c;/ul>
+Mit rund 500 Mitarbeitern sind wir nicht zu klein und nicht zu gro&#x26;szlig;. Wer Arbeiten in angenehmer, famili&#x26;auml;rer Atmosph&#x26;auml;re sch&#x26;auml;tzt, f&#x26;uuml;hlt sich bei uns wohl.&#x3c;br />
+&#x3c;ul>&#x3c;li>BENEFITS STATT 08/15:&#x3c;/li>&#x3c;/ul>
+Kostenloses Obst &#x26;amp; Getr&#x26;auml;nke, Unfallversicherung, reduzierte Fitnessstudio-Beitr&#x26;auml;ge, rabattierte COMPANY Produkte sowie Bezuschussung eines Monatstickets f&#x26;uuml;r Bus und Bahn sind bei COMPANY inklusive.&#x3c;br />
+&#x3c;ul>&#x3c;li>Wir wertsch&#x26;auml;tzen:&#x3c;/li>&#x3c;/ul>
+Vielfalt und begr&#x26;uuml;&#x26;szlig;en daher alle Bewerbungen &#x26;ndash; unabh&#x26;auml;ngig von Geschlecht, Nationalit&#x26;auml;t, ethnischer und sozialer Herkunft, Religion/ Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identit&#x26;auml;t.&#x3c;br />
+&#x3c;br />
+</heroes:zusatzinfo1>
+			<heroes:zusatzinfo2></heroes:zusatzinfo2>
+			<heroes:zusatzinfo3></heroes:zusatzinfo3>
+			<heroes:einleitung></heroes:einleitung>
+			<heroes:hotjob>false</heroes:hotjob>
+			<heroes:vacancycount>1</heroes:vacancycount>
+			<heroes:kostenstelle></heroes:kostenstelle>
+			<heroes:postleitzahl>12345</heroes:postleitzahl>
+			<heroes:land>Deutschland</heroes:land>
+			<heroes:plzmeta>12345</heroes:plzmeta>
+			<heroes:anspraushangname></heroes:anspraushangname>
+			<heroes:ansprpersonalemail></heroes:ansprpersonalemail>
+			<heroes:anspraushangtel></heroes:anspraushangtel>
+			
+			<heroes:wochenarbeitszeit>null</heroes:wochenarbeitszeit>
+			<heroes:wideDescription><![CDATA[
+			<div id="rss">
+				<div id="description">
+					<div id="jobproperty10">
+						<div class="label">Kennziffer</div>
+						<div class="value">1001</div>
+					</div>
+					<div id="jobproperty20">
+						<div class="label">Gesellschaft</div>
+						<div class="value">Company AG</div>
+					</div>
+					<div id="jobproperty30">
+							<div class="label">Ihr Verantwortungsbereich:</div>
+							<div class="value"><ul><li>Gewinnung und Pflege von Kundenbeziehungen im Direktvertrieb bei Bestands- und Neukunden in den Branchen Verlage, Internet, Medien, Retail, Multichannel, etc.</li>
+<li>Erfahrungen in Managed Hosting- und Cloud Computing Projekten</li>
+<li>Erreichen der individuellen- und Team-Ziele</li>
+<li>Technische und vertriebliche Expertise in Bezug auf Hersteller und Kunden</li>
+<li>Entscheidungswege beim Kunden erkennen, festlegen und danach handeln</li>
+<li>Erstellung von nutzenorientierten L&ouml;sungskonzepten und Pr&auml;sentationen</li>
+<li>Unterst&uuml;tzung bei der Kundenqualifizierung und Ermittlung zus&auml;tzlicher Umsatzpotentiale</li>
+<li>W&ouml;chentliches Vertriebsreporting</li></ul></div>
+						</div>
+					<div id="jobproperty40">
+							<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+							<div class="value"><ul><li>Abgeschlossenes Studium oder entsprechende fachspezifische Ausbildung</li>
+<li>Angemessene Berufserfahrung in den Bereichen Vertrieb &amp; Account-Management bei Gesch&auml;ftskunden in der IT oder Telekommunikation</li>
+<li>Vertriebsorientierung und sehr gute Kommunikations- und Pr&auml;sentationsfertigkeiten</li>
+<li>Vorhandenes Kundennetzwerk und Spa&szlig; am Networking</li>
+<li>Fundierte technische Kenntnisse in den Themenbereichen Managed Hosting Services, Virtualisierung (VMware, Hyper-V) und Cloud Computing (Openstack, AWS, Google, Microsoft, Public- und Private Clouds)</li>
+<li>Gutes Verst&auml;ndnis von den Prozessen und Entscheidungsstrukturen bei Gesch&auml;ftskunden</li>
+<li>Ausgepr&auml;gte Ziel-, Ergebnisorientierung und die F&auml;higkeit vertrauensvolle Beziehungen aufzubauen</li>
+<li>&Uuml;berzeugendes, selbst&auml;ndiges und eigenverantwortliches Auftreten und strukturierte Arbeitsweise</li>
+<li>Verhandlungssicheres Englisch- und Deutschkenntnisse in Wort und Schrift</li>
+<li>Sehr gute EDV-Kenntnisse (MS-Office, Salesforce)</li>
+<li>Reisebereitschaft deutschlandweit</li></ul></div>
+						</div>
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li>Freiraum statt Luftnot:</li></ul>
+Gute Ideen brauchen Platz zum Atmen. Wir geben Ihnen, was Sie brauchen: Flexible Arbeitszeiten sind bei uns Standard.<br />
+<ul><li>Wohlf&uuml;hlatmosph&auml;re statt Unwohlsein:</li></ul>
+Mit rund 500 Mitarbeitern sind wir nicht zu klein und nicht zu gro&szlig;. Wer Arbeiten in angenehmer, famili&auml;rer Atmosph&auml;re sch&auml;tzt, f&uuml;hlt sich bei uns wohl.<br />
+<ul><li>BENEFITS STATT 08/15:</li></ul>
+Kostenloses Obst &amp; Getr&auml;nke, Unfallversicherung, reduzierte Fitnessstudio-Beitr&auml;ge, rabattierte COMPANY Produkte sowie Bezuschussung eines Monatstickets f&uuml;r Bus und Bahn sind bei COMPANY inklusive.<br />
+<ul><li>Wir wertsch&auml;tzen:</li></ul>
+Vielfalt und begr&uuml;&szlig;en daher alle Bewerbungen &ndash; unabh&auml;ngig von Geschlecht, Nationalit&auml;t, ethnischer und sozialer Herkunft, Religion/ Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identit&auml;t.<br />
+<br />
+</div>
+						</div>
+						<div id="jobproperty60">
+							<div class="label">Einsatzort</div>
+							<div class="value">Berlin</div>
+						</div>
+					<div id="jobproperty65">
+							<div class="label">Land</div>
+							<div class="value">Deutschland</div>
+						</div>
+					<div id="jobproperty70">
+							<div class="label">Aufgabenbereich</div>
+							<div class="value">Vertrieb</div>
+						</div>
+					<div id="jobproperty80">
+							<div class="label">Besch&#xe4;ftigungsart</div>
+							<div class="value">Festanstellung</div>
+						</div>
+					</div>
+			</div>
+			<!--
+			<nummer>1001</nummer>
+			<ort>Berlin</ort>
+			<land>Deutschland</land>
+			<kontakt></kontakt>
+			<kontakt-telefon></kontakt-telefon>
+			<link>http://some.domain/r/Z11UQ5B6JKGE9XY</link>
+
+			<plz>12345</plz>
+			<strasse-nr></strasse-nr>
+			<bundesland></bundesland>
+			
+			-->
+			]]></heroes:wideDescription>
+		</item>
+		<item>
+			<link>http://some.domain/r/Z10VSPB5LP7OGNA/COMPANY+Experte+mw+Customer+Business+Services/12345/Berlin</link>
+			<pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://some.domain/r/Z10VSPB5LP7OGNA/COMPANY+Experte+mw+Customer+Business+Services/12345/Berlin</guid>
+			<title>COMPANY Experte (m/w) Customer Business Services</title>
+			<description><![CDATA[<ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul>]]></description>
+			<heroes:stellenAnsichtLink>http://some.domain/r/Z00NQITO1MEC1FA/COMPANY+Experte+mw+Customer+Business+Services/12345/Berlin</heroes:stellenAnsichtLink>
+			<heroes:bewerbungsLink>http://some.domain/r/Z01KDCK11KKATWM/COMPANY+Experte+mw+Customer+Business+Services/12345/Berlin</heroes:bewerbungsLink>
+			<heroes:kennziffer>1011</heroes:kennziffer>
+			<heroes:kennzifferkunde></heroes:kennzifferkunde>
+			<heroes:referenznummer></heroes:referenznummer>
+			<heroes:positionanzeige>COMPANY Experte (m/w) Customer Business Services</heroes:positionanzeige>
+			<heroes:geschaeftsbereich>Company AG</heroes:geschaeftsbereich>
+			<heroes:geschaeftsbereichKey>STR</heroes:geschaeftsbereichKey>
+			<heroes:gesellschaft><![CDATA[Company AG]]></heroes:gesellschaft>
+			<heroes:infotext>COMPANY wurde 1997 gegr&#xfc;ndet und besch&#xe4;ftigt heute 550 Mitarbeiter an zwei Standorten in Deutschland.  Die wichtigsten M&#xe4;rkte sind Deutschland, die Niederlande, Spanien und die T&#xfc;rkei.
+
+Das Hosting-Unternehmen begleitet seine Kunden auf dem Weg in die Digitalisierung. Die Produktpalette reicht von Domains, Websites, Webshops und Online-Speicher &#xfc;ber Office-Pakete und Online-Marketing-Tools bis hin zu individuellen High-End-L&#xf6;sungen und Managed-Hosting. COMPANY hostet vier Millionen Domains f&#xfc;r Kunden weltweit und betreibt &#xfc;ber 60.000 Server in zwei T&#xdc;V-zertifizierten Rechenzentren in Deutschland.
+
+Mit seiner umfassenden Initiative &#x201e;#faireinfacht&#x201c; gestaltet COMPANY Webhosting-Dienste fairer und einfacher. COMPANY bietet seinen Kunden kurze Laufzeiten, eine einfache und schnelle Online-K&#xfc;ndigung sowie eine 30 Tage Geld-zur&#xfc;ck-Garantie &#x2013; f&#xfc;r s&#xe4;mtliche Produkte, auch f&#xfc;r Domains. Zus&#xe4;tzlich setzt COMPANY auf eine transparente Preisdarstellung mit glatten Preisen und ohne Kleingedrucktem.
+
+COMPANY geh&#xf6;rt seit dem 1. April 2017 zur United Internet-Gruppe.</heroes:infotext>
+			<heroes:aufgaben><![CDATA[<ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul>]]></heroes:aufgaben>
+			<heroes:qualifikationen><![CDATA[<ul><li>Sie bereichern unser Team mit Ihrem l&ouml;sungsorientiertem Service-Gedanken, Ihrer Kommunikationsst&auml;rke und einem guten technischen Grundverst&auml;ndnis.</li></ul>]]></heroes:qualifikationen>
+			<heroes:formattedAufgaben><![CDATA[ 
+				<div id="jobproperty30">
+						<div class="label">Ihr Verantwortungsbereich:</div>
+						<div class="value"><ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedAufgaben>
+			<heroes:formattedQualifikationen><![CDATA[
+				<div id="jobproperty40">
+						<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+						<div class="value"><ul><li>Sie bereichern unser Team mit Ihrem l&ouml;sungsorientiertem Service-Gedanken, Ihrer Kommunikationsst&auml;rke und einem guten technischen Grundverst&auml;ndnis.</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedQualifikationen>
+			<heroes:formattedZusatzinfo1><![CDATA[
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Wohlf&uuml;hlatmosph&auml;re statt Unwohlsein:</b></li></ul></div>
+						</div>
+			]]></heroes:formattedZusatzinfo1>
+			<heroes:formattedZusatzinfo2><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo2>
+			<heroes:formattedZusatzinfo3><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo3>
+			<heroes:beschaeftigungsart>Festanstellung</heroes:beschaeftigungsart>
+			<heroes:beschaeftigungsartKey></heroes:beschaeftigungsartKey>
+			<heroes:aufgabenbereich>Kundenservice</heroes:aufgabenbereich>
+			<heroes:zuBesetzenAb>zum fr&#xfc;hestm&#xf6;glichen Eintrittstermin</heroes:zuBesetzenAb>
+			<heroes:einsatzortSummary>12345 Berlin, Deutschland</heroes:einsatzortSummary>
+			<heroes:einsatzort>Berlin</heroes:einsatzort>
+			<heroes:adresse></heroes:adresse>
+			<heroes:zusatzinfo1>&#x3c;ul>&#x3c;li>&#x3c;b>Wohlf&#x26;uuml;hlatmosph&#x26;auml;re statt Unwohlsein:&#x3c;/b>&#x3c;/li>&#x3c;/ul></heroes:zusatzinfo1>
+			<heroes:zusatzinfo2></heroes:zusatzinfo2>
+			<heroes:zusatzinfo3></heroes:zusatzinfo3>
+			<heroes:einleitung></heroes:einleitung>
+			<heroes:hotjob>false</heroes:hotjob>
+			<heroes:vacancycount>1</heroes:vacancycount>
+			<heroes:kostenstelle></heroes:kostenstelle>
+			<heroes:postleitzahl>12345</heroes:postleitzahl>
+			<heroes:land>Deutschland</heroes:land>
+			<heroes:plzmeta>12345</heroes:plzmeta>
+			<heroes:anspraushangname>P. Personal</heroes:anspraushangname>
+			<heroes:ansprpersonalemail>job10-personal@telum.de</heroes:ansprpersonalemail>
+			<heroes:anspraushangtel></heroes:anspraushangtel>
+			
+			<heroes:wochenarbeitszeit>null</heroes:wochenarbeitszeit>
+			<heroes:wideDescription><![CDATA[
+			<div id="rss">
+				<div id="description">
+					<div id="jobproperty10">
+						<div class="label">Kennziffer</div>
+						<div class="value">1011</div>
+					</div>
+					<div id="jobproperty20">
+						<div class="label">Gesellschaft</div>
+						<div class="value">Company AG</div>
+					</div>
+					<div id="jobproperty30">
+							<div class="label">Ihr Verantwortungsbereich:</div>
+							<div class="value"><ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul></div>
+						</div>
+					<div id="jobproperty40">
+							<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+							<div class="value"><ul><li>Sie bereichern unser Team mit Ihrem l&ouml;sungsorientiertem Service-Gedanken, Ihrer Kommunikationsst&auml;rke und einem guten technischen Grundverst&auml;ndnis.</li></ul></div>
+						</div>
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Wohlf&uuml;hlatmosph&auml;re statt Unwohlsein:</b></li></ul></div>
+						</div>
+						<div id="jobproperty60">
+							<div class="label">Einsatzort</div>
+							<div class="value">Berlin</div>
+						</div>
+					<div id="jobproperty65">
+							<div class="label">Land</div>
+							<div class="value">Deutschland</div>
+						</div>
+					<div id="jobproperty70">
+							<div class="label">Aufgabenbereich</div>
+							<div class="value">Kundenservice</div>
+						</div>
+					<div id="jobproperty80">
+							<div class="label">Besch&#xe4;ftigungsart</div>
+							<div class="value">Festanstellung</div>
+						</div>
+					</div>
+			</div>
+			<!--
+			<nummer>1011</nummer>
+			<ort>Berlin</ort>
+			<land>Deutschland</land>
+			<kontakt>P. Personal</kontakt>
+			<kontakt-telefon>+49 00 11 22 33 </kontakt-telefon>
+			<link>http://some.domain/r/Z11GUPY1BGU03PR</link>
+
+			<plz>12345</plz>
+			<strasse-nr></strasse-nr>
+			<bundesland></bundesland>
+			
+			-->
+			]]></heroes:wideDescription>
+		</item>
+		<item>
+			<link>http://some.domain/r/Z11Q6C6OS37POK8/COMPANY-Experte+im+2nd+Level+mw/12345/Berlin</link>
+			<pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://some.domain/r/Z11Q6C6OS37POK8/COMPANY-Experte+im+2nd+Level+mw/12345/Berlin</guid>
+			<title>COMPANY-Experte im 2nd Level (m/w)</title>
+			<description><![CDATA[<ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul>]]></description>
+			<heroes:stellenAnsichtLink>http://some.domain/r/Z11DGVXRBTEE627/COMPANY-Experte+im+2nd+Level+mw/12345/Berlin</heroes:stellenAnsichtLink>
+			<heroes:bewerbungsLink>http://some.domain/r/Z10H6JKH3A9BJ0G/COMPANY-Experte+im+2nd+Level+mw/12345/Berlin</heroes:bewerbungsLink>
+			<heroes:kennziffer>1010</heroes:kennziffer>
+			<heroes:kennzifferkunde></heroes:kennzifferkunde>
+			<heroes:referenznummer></heroes:referenznummer>
+			<heroes:positionanzeige>COMPANY-Experte im 2nd Level (m/w)</heroes:positionanzeige>
+			<heroes:geschaeftsbereich>Company AG</heroes:geschaeftsbereich>
+			<heroes:geschaeftsbereichKey>STR</heroes:geschaeftsbereichKey>
+			<heroes:gesellschaft><![CDATA[Company AG]]></heroes:gesellschaft>
+			<heroes:infotext>COMPANY wurde 1997 gegr&#xfc;ndet und besch&#xe4;ftigt heute 550 Mitarbeiter an zwei Standorten in Deutschland.  Die wichtigsten M&#xe4;rkte sind Deutschland, die Niederlande, Spanien und die T&#xfc;rkei.
+
+Das Hosting-Unternehmen begleitet seine Kunden auf dem Weg in die Digitalisierung. Die Produktpalette reicht von Domains, Websites, Webshops und Online-Speicher &#xfc;ber Office-Pakete und Online-Marketing-Tools bis hin zu individuellen High-End-L&#xf6;sungen und Managed-Hosting. COMPANY hostet vier Millionen Domains f&#xfc;r Kunden weltweit und betreibt &#xfc;ber 60.000 Server in zwei T&#xdc;V-zertifizierten Rechenzentren in Deutschland.
+
+Mit seiner umfassenden Initiative &#x201e;#faireinfacht&#x201c; gestaltet COMPANY Webhosting-Dienste fairer und einfacher. COMPANY bietet seinen Kunden kurze Laufzeiten, eine einfache und schnelle Online-K&#xfc;ndigung sowie eine 30 Tage Geld-zur&#xfc;ck-Garantie &#x2013; f&#xfc;r s&#xe4;mtliche Produkte, auch f&#xfc;r Domains. Zus&#xe4;tzlich setzt COMPANY auf eine transparente Preisdarstellung mit glatten Preisen und ohne Kleingedrucktem.
+
+COMPANY geh&#xf6;rt seit dem 1. April 2017 zur United Internet-Gruppe.</heroes:infotext>
+			<heroes:aufgaben><![CDATA[<ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul>]]></heroes:aufgaben>
+			<heroes:qualifikationen><![CDATA[<ul><li>Sie bereichern unser Team mit Ihrem l&ouml;sungsorientiertem Service-Gedanken, Ihrer Kommunikationsst&auml;rke und einem guten technischen Grundverst&auml;ndnis.</li></ul>]]></heroes:qualifikationen>
+			<heroes:formattedAufgaben><![CDATA[ 
+				<div id="jobproperty30">
+						<div class="label">Ihr Verantwortungsbereich:</div>
+						<div class="value"><ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedAufgaben>
+			<heroes:formattedQualifikationen><![CDATA[
+				<div id="jobproperty40">
+						<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+						<div class="value"><ul><li>Sie bereichern unser Team mit Ihrem l&ouml;sungsorientiertem Service-Gedanken, Ihrer Kommunikationsst&auml;rke und einem guten technischen Grundverst&auml;ndnis.</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedQualifikationen>
+			<heroes:formattedZusatzinfo1><![CDATA[
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Wohlf&uuml;hlatmosph&auml;re statt Unwohlsein:</b></li></ul></div>
+						</div>
+			]]></heroes:formattedZusatzinfo1>
+			<heroes:formattedZusatzinfo2><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo2>
+			<heroes:formattedZusatzinfo3><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo3>
+			<heroes:beschaeftigungsart>Festanstellung</heroes:beschaeftigungsart>
+			<heroes:beschaeftigungsartKey></heroes:beschaeftigungsartKey>
+			<heroes:aufgabenbereich>Kundenservice</heroes:aufgabenbereich>
+			<heroes:zuBesetzenAb>zum fr&#xfc;hestm&#xf6;glichen Eintrittstermin</heroes:zuBesetzenAb>
+			<heroes:einsatzortSummary>12345 Berlin, Deutschland</heroes:einsatzortSummary>
+			<heroes:einsatzort>Berlin</heroes:einsatzort>
+			<heroes:adresse></heroes:adresse>
+			<heroes:zusatzinfo1>&#x3c;ul>&#x3c;li>&#x3c;b>Wohlf&#x26;uuml;hlatmosph&#x26;auml;re statt Unwohlsein:&#x3c;/b>&#x3c;/li>&#x3c;/ul></heroes:zusatzinfo1>
+			<heroes:zusatzinfo2></heroes:zusatzinfo2>
+			<heroes:zusatzinfo3></heroes:zusatzinfo3>
+			<heroes:einleitung></heroes:einleitung>
+			<heroes:hotjob>false</heroes:hotjob>
+			<heroes:vacancycount>1</heroes:vacancycount>
+			<heroes:kostenstelle></heroes:kostenstelle>
+			<heroes:postleitzahl>12345</heroes:postleitzahl>
+			<heroes:land>Deutschland</heroes:land>
+			<heroes:plzmeta>12345</heroes:plzmeta>
+			<heroes:anspraushangname>P. Personal</heroes:anspraushangname>
+			<heroes:ansprpersonalemail>job10-personal@telum.de</heroes:ansprpersonalemail>
+			<heroes:anspraushangtel></heroes:anspraushangtel>
+			
+			<heroes:wochenarbeitszeit>null</heroes:wochenarbeitszeit>
+			<heroes:wideDescription><![CDATA[
+			<div id="rss">
+				<div id="description">
+					<div id="jobproperty10">
+						<div class="label">Kennziffer</div>
+						<div class="value">1010</div>
+					</div>
+					<div id="jobproperty20">
+						<div class="label">Gesellschaft</div>
+						<div class="value">Company AG</div>
+					</div>
+					<div id="jobproperty30">
+							<div class="label">Ihr Verantwortungsbereich:</div>
+							<div class="value"><ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul></div>
+						</div>
+					<div id="jobproperty40">
+							<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+							<div class="value"><ul><li>Sie bereichern unser Team mit Ihrem l&ouml;sungsorientiertem Service-Gedanken, Ihrer Kommunikationsst&auml;rke und einem guten technischen Grundverst&auml;ndnis.</li></ul></div>
+						</div>
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Wohlf&uuml;hlatmosph&auml;re statt Unwohlsein:</b></li></ul></div>
+						</div>
+						<div id="jobproperty60">
+							<div class="label">Einsatzort</div>
+							<div class="value">Berlin</div>
+						</div>
+					<div id="jobproperty65">
+							<div class="label">Land</div>
+							<div class="value">Deutschland</div>
+						</div>
+					<div id="jobproperty70">
+							<div class="label">Aufgabenbereich</div>
+							<div class="value">Kundenservice</div>
+						</div>
+					<div id="jobproperty80">
+							<div class="label">Besch&#xe4;ftigungsart</div>
+							<div class="value">Festanstellung</div>
+						</div>
+					</div>
+			</div>
+			<!--
+			<nummer>1010</nummer>
+			<ort>Berlin</ort>
+			<land>Deutschland</land>
+			<kontakt>P. Personal</kontakt>
+			<kontakt-telefon>+49 00 11 22 33 </kontakt-telefon>
+			<link>http://some.domain/r/Z1018WG3AJ3XLFW</link>
+
+			<plz>12345</plz>
+			<strasse-nr></strasse-nr>
+			<bundesland></bundesland>
+			
+			-->
+			]]></heroes:wideDescription>
+		</item>
+		<item>
+			<link>http://some.domain/r/Z01OKNGVR0FPGFL/COMPANY-Experte+mw/12345/Berlin</link>
+			<pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://some.domain/r/Z01OKNGVR0FPGFL/COMPANY-Experte+mw/12345/Berlin</guid>
+			<title>COMPANY-Experte (m/w)</title>
+			<description><![CDATA[<ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul>]]></description>
+			<heroes:stellenAnsichtLink>http://some.domain/r/Z00TX18HTIW79V9/COMPANY-Experte+mw/12345/Berlin</heroes:stellenAnsichtLink>
+			<heroes:bewerbungsLink>http://some.domain/r/Z00OOYN66K40CXI/COMPANY-Experte+mw/12345/Berlin</heroes:bewerbungsLink>
+			<heroes:kennziffer>1008</heroes:kennziffer>
+			<heroes:kennzifferkunde></heroes:kennzifferkunde>
+			<heroes:referenznummer></heroes:referenznummer>
+			<heroes:positionanzeige>COMPANY-Experte (m/w)</heroes:positionanzeige>
+			<heroes:geschaeftsbereich>Company AG</heroes:geschaeftsbereich>
+			<heroes:geschaeftsbereichKey>STR</heroes:geschaeftsbereichKey>
+			<heroes:gesellschaft><![CDATA[Company AG]]></heroes:gesellschaft>
+			<heroes:infotext>COMPANY wurde 1997 gegr&#xfc;ndet und besch&#xe4;ftigt heute 550 Mitarbeiter an zwei Standorten in Deutschland.  Die wichtigsten M&#xe4;rkte sind Deutschland, die Niederlande, Spanien und die T&#xfc;rkei.
+
+Das Hosting-Unternehmen begleitet seine Kunden auf dem Weg in die Digitalisierung. Die Produktpalette reicht von Domains, Websites, Webshops und Online-Speicher &#xfc;ber Office-Pakete und Online-Marketing-Tools bis hin zu individuellen High-End-L&#xf6;sungen und Managed-Hosting. COMPANY hostet vier Millionen Domains f&#xfc;r Kunden weltweit und betreibt &#xfc;ber 60.000 Server in zwei T&#xdc;V-zertifizierten Rechenzentren in Deutschland.
+
+Mit seiner umfassenden Initiative &#x201e;#faireinfacht&#x201c; gestaltet COMPANY Webhosting-Dienste fairer und einfacher. COMPANY bietet seinen Kunden kurze Laufzeiten, eine einfache und schnelle Online-K&#xfc;ndigung sowie eine 30 Tage Geld-zur&#xfc;ck-Garantie &#x2013; f&#xfc;r s&#xe4;mtliche Produkte, auch f&#xfc;r Domains. Zus&#xe4;tzlich setzt COMPANY auf eine transparente Preisdarstellung mit glatten Preisen und ohne Kleingedrucktem.
+
+COMPANY geh&#xf6;rt seit dem 1. April 2017 zur United Internet-Gruppe.</heroes:infotext>
+			<heroes:aufgaben><![CDATA[<ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul>]]></heroes:aufgaben>
+			<heroes:qualifikationen><![CDATA[<ul><li>Sie bereichern unser Team mit Ihrem l&ouml;sungsorientiertem Service-Gedanken, Ihrer Kommunikationsst&auml;rke und einem guten technischen Grundverst&auml;ndnis.</li></ul>]]></heroes:qualifikationen>
+			<heroes:formattedAufgaben><![CDATA[ 
+				<div id="jobproperty30">
+						<div class="label">Ihr Verantwortungsbereich:</div>
+						<div class="value"><ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedAufgaben>
+			<heroes:formattedQualifikationen><![CDATA[
+				<div id="jobproperty40">
+						<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+						<div class="value"><ul><li>Sie bereichern unser Team mit Ihrem l&ouml;sungsorientiertem Service-Gedanken, Ihrer Kommunikationsst&auml;rke und einem guten technischen Grundverst&auml;ndnis.</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedQualifikationen>
+			<heroes:formattedZusatzinfo1><![CDATA[
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Wohlf&uuml;hlatmosph&auml;re statt Unwohlsein:</b></li></ul></div>
+						</div>
+			]]></heroes:formattedZusatzinfo1>
+			<heroes:formattedZusatzinfo2><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo2>
+			<heroes:formattedZusatzinfo3><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo3>
+			<heroes:beschaeftigungsart>Festanstellung</heroes:beschaeftigungsart>
+			<heroes:beschaeftigungsartKey></heroes:beschaeftigungsartKey>
+			<heroes:aufgabenbereich>Kundenservice</heroes:aufgabenbereich>
+			<heroes:zuBesetzenAb>zum fr&#xfc;hestm&#xf6;glichen Eintrittstermin</heroes:zuBesetzenAb>
+			<heroes:einsatzortSummary>12345 Berlin, Deutschland</heroes:einsatzortSummary>
+			<heroes:einsatzort>Berlin</heroes:einsatzort>
+			<heroes:adresse></heroes:adresse>
+			<heroes:zusatzinfo1>&#x3c;ul>&#x3c;li>&#x3c;b>Wohlf&#x26;uuml;hlatmosph&#x26;auml;re statt Unwohlsein:&#x3c;/b>&#x3c;/li>&#x3c;/ul></heroes:zusatzinfo1>
+			<heroes:zusatzinfo2></heroes:zusatzinfo2>
+			<heroes:zusatzinfo3></heroes:zusatzinfo3>
+			<heroes:einleitung></heroes:einleitung>
+			<heroes:hotjob>false</heroes:hotjob>
+			<heroes:vacancycount>1</heroes:vacancycount>
+			<heroes:kostenstelle></heroes:kostenstelle>
+			<heroes:postleitzahl>12345</heroes:postleitzahl>
+			<heroes:land>Deutschland</heroes:land>
+			<heroes:plzmeta>12345</heroes:plzmeta>
+			<heroes:anspraushangname>P. Personal</heroes:anspraushangname>
+			<heroes:ansprpersonalemail>job10-personal@telum.de</heroes:ansprpersonalemail>
+			<heroes:anspraushangtel></heroes:anspraushangtel>
+			
+			<heroes:wochenarbeitszeit>null</heroes:wochenarbeitszeit>
+			<heroes:wideDescription><![CDATA[
+			<div id="rss">
+				<div id="description">
+					<div id="jobproperty10">
+						<div class="label">Kennziffer</div>
+						<div class="value">1008</div>
+					</div>
+					<div id="jobproperty20">
+						<div class="label">Gesellschaft</div>
+						<div class="value">Company AG</div>
+					</div>
+					<div id="jobproperty30">
+							<div class="label">Ihr Verantwortungsbereich:</div>
+							<div class="value"><ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul></div>
+						</div>
+					<div id="jobproperty40">
+							<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+							<div class="value"><ul><li>Sie bereichern unser Team mit Ihrem l&ouml;sungsorientiertem Service-Gedanken, Ihrer Kommunikationsst&auml;rke und einem guten technischen Grundverst&auml;ndnis.</li></ul></div>
+						</div>
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Wohlf&uuml;hlatmosph&auml;re statt Unwohlsein:</b></li></ul></div>
+						</div>
+						<div id="jobproperty60">
+							<div class="label">Einsatzort</div>
+							<div class="value">Berlin</div>
+						</div>
+					<div id="jobproperty65">
+							<div class="label">Land</div>
+							<div class="value">Deutschland</div>
+						</div>
+					<div id="jobproperty70">
+							<div class="label">Aufgabenbereich</div>
+							<div class="value">Kundenservice</div>
+						</div>
+					<div id="jobproperty80">
+							<div class="label">Besch&#xe4;ftigungsart</div>
+							<div class="value">Festanstellung</div>
+						</div>
+					</div>
+			</div>
+			<!--
+			<nummer>1008</nummer>
+			<ort>Berlin</ort>
+			<land>Deutschland</land>
+			<kontakt>P. Personal</kontakt>
+			<kontakt-telefon>+49 00 11 22 33 </kontakt-telefon>
+			<link>http://some.domain/r/Z013OSR1N5GW296</link>
+
+			<plz>12345</plz>
+			<strasse-nr></strasse-nr>
+			<bundesland></bundesland>
+			
+			-->
+			]]></heroes:wideDescription>
+		</item>
+		<item>
+			<link>http://some.domain/r/Z01Q2YDRRGFMN5S/System+AdminiCOMPANYr+mw+Linux+Server/12345/Berlin</link>
+			<pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://some.domain/r/Z01Q2YDRRGFMN5S/System+AdminiCOMPANYr+mw+Linux+Server/12345/Berlin</guid>
+			<title>System AdminiCOMPANYr (m/w) Linux Server</title>
+			<description><![CDATA[<ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul>]]></description>
+			<heroes:stellenAnsichtLink>http://some.domain/r/Z10OM5NJIEF90N3/System+AdminiCOMPANYr+mw+Linux+Server/12345/Berlin</heroes:stellenAnsichtLink>
+			<heroes:bewerbungsLink>http://some.domain/r/Z12JRXNH5G1AMUV/System+AdminiCOMPANYr+mw+Linux+Server/12345/Berlin</heroes:bewerbungsLink>
+			<heroes:kennziffer>1019</heroes:kennziffer>
+			<heroes:kennzifferkunde></heroes:kennzifferkunde>
+			<heroes:referenznummer></heroes:referenznummer>
+			<heroes:positionanzeige>System AdminiCOMPANYr (m/w) Linux Server</heroes:positionanzeige>
+			<heroes:geschaeftsbereich>Company AG</heroes:geschaeftsbereich>
+			<heroes:geschaeftsbereichKey>STR</heroes:geschaeftsbereichKey>
+			<heroes:gesellschaft><![CDATA[Company AG]]></heroes:gesellschaft>
+			<heroes:infotext>COMPANY wurde 1997 gegr&#xfc;ndet und besch&#xe4;ftigt heute 550 Mitarbeiter an zwei Standorten in Deutschland.  Die wichtigsten M&#xe4;rkte sind Deutschland, die Niederlande, Spanien und die T&#xfc;rkei.
+
+Das Hosting-Unternehmen begleitet seine Kunden auf dem Weg in die Digitalisierung. Die Produktpalette reicht von Domains, Websites, Webshops und Online-Speicher &#xfc;ber Office-Pakete und Online-Marketing-Tools bis hin zu individuellen High-End-L&#xf6;sungen und Managed-Hosting. COMPANY hostet vier Millionen Domains f&#xfc;r Kunden weltweit und betreibt &#xfc;ber 60.000 Server in zwei T&#xdc;V-zertifizierten Rechenzentren in Deutschland.
+
+Mit seiner umfassenden Initiative &#x201e;#faireinfacht&#x201c; gestaltet COMPANY Webhosting-Dienste fairer und einfacher. COMPANY bietet seinen Kunden kurze Laufzeiten, eine einfache und schnelle Online-K&#xfc;ndigung sowie eine 30 Tage Geld-zur&#xfc;ck-Garantie &#x2013; f&#xfc;r s&#xe4;mtliche Produkte, auch f&#xfc;r Domains. Zus&#xe4;tzlich setzt COMPANY auf eine transparente Preisdarstellung mit glatten Preisen und ohne Kleingedrucktem.
+
+COMPANY geh&#xf6;rt seit dem 1. April 2017 zur United Internet-Gruppe.</heroes:infotext>
+			<heroes:aufgaben><![CDATA[<ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul>]]></heroes:aufgaben>
+			<heroes:qualifikationen><![CDATA[<ul><li>Sehr gute Kenntnisse und berufliche Erfahrung im Umgang mit UNIX-Systemen</li></ul>]]></heroes:qualifikationen>
+			<heroes:formattedAufgaben><![CDATA[ 
+				<div id="jobproperty30">
+						<div class="label">Ihr Verantwortungsbereich:</div>
+						<div class="value"><ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedAufgaben>
+			<heroes:formattedQualifikationen><![CDATA[
+				<div id="jobproperty40">
+						<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+						<div class="value"><ul><li>Sehr gute Kenntnisse und berufliche Erfahrung im Umgang mit UNIX-Systemen</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedQualifikationen>
+			<heroes:formattedZusatzinfo1><![CDATA[
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+			]]></heroes:formattedZusatzinfo1>
+			<heroes:formattedZusatzinfo2><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo2>
+			<heroes:formattedZusatzinfo3><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo3>
+			<heroes:beschaeftigungsart>Festanstellung</heroes:beschaeftigungsart>
+			<heroes:beschaeftigungsartKey></heroes:beschaeftigungsartKey>
+			<heroes:aufgabenbereich>Technik</heroes:aufgabenbereich>
+			<heroes:zuBesetzenAb>zum fr&#xfc;hestm&#xf6;glichen Eintrittstermin</heroes:zuBesetzenAb>
+			<heroes:einsatzortSummary>12345 Berlin, Deutschland</heroes:einsatzortSummary>
+			<heroes:einsatzort>Berlin</heroes:einsatzort>
+			<heroes:adresse></heroes:adresse>
+			<heroes:zusatzinfo1>&#x3c;ul>&#x3c;li>&#x3c;b>Freiraum statt Luftnot:&#x3c;/b>&#x3c;/li>&#x3c;/ul></heroes:zusatzinfo1>
+			<heroes:zusatzinfo2></heroes:zusatzinfo2>
+			<heroes:zusatzinfo3></heroes:zusatzinfo3>
+			<heroes:einleitung></heroes:einleitung>
+			<heroes:hotjob>false</heroes:hotjob>
+			<heroes:vacancycount>1</heroes:vacancycount>
+			<heroes:kostenstelle></heroes:kostenstelle>
+			<heroes:postleitzahl>12345</heroes:postleitzahl>
+			<heroes:land>Deutschland</heroes:land>
+			<heroes:plzmeta>12345</heroes:plzmeta>
+			<heroes:anspraushangname>P. Personal</heroes:anspraushangname>
+			<heroes:ansprpersonalemail>job10-personal@telum.de</heroes:ansprpersonalemail>
+			<heroes:anspraushangtel></heroes:anspraushangtel>
+			
+			<heroes:wochenarbeitszeit>null</heroes:wochenarbeitszeit>
+			<heroes:wideDescription><![CDATA[
+			<div id="rss">
+				<div id="description">
+					<div id="jobproperty10">
+						<div class="label">Kennziffer</div>
+						<div class="value">1019</div>
+					</div>
+					<div id="jobproperty20">
+						<div class="label">Gesellschaft</div>
+						<div class="value">Company AG</div>
+					</div>
+					<div id="jobproperty30">
+							<div class="label">Ihr Verantwortungsbereich:</div>
+							<div class="value"><ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul></div>
+						</div>
+					<div id="jobproperty40">
+							<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+							<div class="value"><ul><li>Sehr gute Kenntnisse und berufliche Erfahrung im Umgang mit UNIX-Systemen</li></ul></div>
+						</div>
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+						<div id="jobproperty60">
+							<div class="label">Einsatzort</div>
+							<div class="value">Berlin</div>
+						</div>
+					<div id="jobproperty65">
+							<div class="label">Land</div>
+							<div class="value">Deutschland</div>
+						</div>
+					<div id="jobproperty70">
+							<div class="label">Aufgabenbereich</div>
+							<div class="value">Technik</div>
+						</div>
+					<div id="jobproperty80">
+							<div class="label">Besch&#xe4;ftigungsart</div>
+							<div class="value">Festanstellung</div>
+						</div>
+					</div>
+			</div>
+			<!--
+			<nummer>1019</nummer>
+			<ort>Berlin</ort>
+			<land>Deutschland</land>
+			<kontakt>P. Personal</kontakt>
+			<kontakt-telefon>+49 00 11 22 33 </kontakt-telefon>
+			<link>http://some.domain/r/Z01J0E1OLP15MH6</link>
+
+			<plz>12345</plz>
+			<strasse-nr></strasse-nr>
+			<bundesland></bundesland>
+			
+			-->
+			]]></heroes:wideDescription>
+		</item>
+		<item>
+			<link>http://some.domain/r/Z1241XHK2J7TKJ7/SystemadminiCOMPANYr+mw+Windows/12345/Berlin</link>
+			<pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://some.domain/r/Z1241XHK2J7TKJ7/SystemadminiCOMPANYr+mw+Windows/12345/Berlin</guid>
+			<title>SystemadminiCOMPANYr (m/w) Windows</title>
+			<description><![CDATA[<ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul>]]></description>
+			<heroes:stellenAnsichtLink>http://some.domain/r/Z11T9J1P6C02H5O/SystemadminiCOMPANYr+mw+Windows/12345/Berlin</heroes:stellenAnsichtLink>
+			<heroes:bewerbungsLink>http://some.domain/r/Z11AXFR0L51H7SG/SystemadminiCOMPANYr+mw+Windows/12345/Berlin</heroes:bewerbungsLink>
+			<heroes:kennziffer>1021</heroes:kennziffer>
+			<heroes:kennzifferkunde></heroes:kennzifferkunde>
+			<heroes:referenznummer></heroes:referenznummer>
+			<heroes:positionanzeige>SystemadminiCOMPANYr (m/w) Windows</heroes:positionanzeige>
+			<heroes:geschaeftsbereich>Company AG</heroes:geschaeftsbereich>
+			<heroes:geschaeftsbereichKey>STR</heroes:geschaeftsbereichKey>
+			<heroes:gesellschaft><![CDATA[Company AG]]></heroes:gesellschaft>
+			<heroes:infotext>COMPANY wurde 1997 gegr&#xfc;ndet und besch&#xe4;ftigt heute 550 Mitarbeiter an zwei Standorten in Deutschland.  Die wichtigsten M&#xe4;rkte sind Deutschland, die Niederlande, Spanien und die T&#xfc;rkei.
+
+Das Hosting-Unternehmen begleitet seine Kunden auf dem Weg in die Digitalisierung. Die Produktpalette reicht von Domains, Websites, Webshops und Online-Speicher &#xfc;ber Office-Pakete und Online-Marketing-Tools bis hin zu individuellen High-End-L&#xf6;sungen und Managed-Hosting. COMPANY hostet vier Millionen Domains f&#xfc;r Kunden weltweit und betreibt &#xfc;ber 60.000 Server in zwei T&#xdc;V-zertifizierten Rechenzentren in Deutschland.
+
+Mit seiner umfassenden Initiative &#x201e;#faireinfacht&#x201c; gestaltet COMPANY Webhosting-Dienste fairer und einfacher. COMPANY bietet seinen Kunden kurze Laufzeiten, eine einfache und schnelle Online-K&#xfc;ndigung sowie eine 30 Tage Geld-zur&#xfc;ck-Garantie &#x2013; f&#xfc;r s&#xe4;mtliche Produkte, auch f&#xfc;r Domains. Zus&#xe4;tzlich setzt COMPANY auf eine transparente Preisdarstellung mit glatten Preisen und ohne Kleingedrucktem.
+
+COMPANY geh&#xf6;rt seit dem 1. April 2017 zur United Internet-Gruppe.</heroes:infotext>
+			<heroes:aufgaben><![CDATA[<ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul>]]></heroes:aufgaben>
+			<heroes:qualifikationen><![CDATA[<ul><li>Sehr gute Kenntnisse und berufliche Erfahrung im Umgang mit UNIX-Systemen</li></ul>]]></heroes:qualifikationen>
+			<heroes:formattedAufgaben><![CDATA[ 
+				<div id="jobproperty30">
+						<div class="label">Ihr Verantwortungsbereich:</div>
+						<div class="value"><ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedAufgaben>
+			<heroes:formattedQualifikationen><![CDATA[
+				<div id="jobproperty40">
+						<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+						<div class="value"><ul><li>Sehr gute Kenntnisse und berufliche Erfahrung im Umgang mit UNIX-Systemen</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedQualifikationen>
+			<heroes:formattedZusatzinfo1><![CDATA[
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+			]]></heroes:formattedZusatzinfo1>
+			<heroes:formattedZusatzinfo2><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo2>
+			<heroes:formattedZusatzinfo3><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo3>
+			<heroes:beschaeftigungsart>Festanstellung</heroes:beschaeftigungsart>
+			<heroes:beschaeftigungsartKey></heroes:beschaeftigungsartKey>
+			<heroes:aufgabenbereich>Technik</heroes:aufgabenbereich>
+			<heroes:zuBesetzenAb>zum fr&#xfc;hestm&#xf6;glichen Eintrittstermin</heroes:zuBesetzenAb>
+			<heroes:einsatzortSummary>12345 Berlin, Deutschland</heroes:einsatzortSummary>
+			<heroes:einsatzort>Berlin</heroes:einsatzort>
+			<heroes:adresse></heroes:adresse>
+			<heroes:zusatzinfo1>&#x3c;ul>&#x3c;li>&#x3c;b>Freiraum statt Luftnot:&#x3c;/b>&#x3c;/li>&#x3c;/ul></heroes:zusatzinfo1>
+			<heroes:zusatzinfo2></heroes:zusatzinfo2>
+			<heroes:zusatzinfo3></heroes:zusatzinfo3>
+			<heroes:einleitung></heroes:einleitung>
+			<heroes:hotjob>false</heroes:hotjob>
+			<heroes:vacancycount>1</heroes:vacancycount>
+			<heroes:kostenstelle></heroes:kostenstelle>
+			<heroes:postleitzahl>12345</heroes:postleitzahl>
+			<heroes:land>Deutschland</heroes:land>
+			<heroes:plzmeta>12345</heroes:plzmeta>
+			<heroes:anspraushangname>P. Personal</heroes:anspraushangname>
+			<heroes:ansprpersonalemail>job10-personal@telum.de</heroes:ansprpersonalemail>
+			<heroes:anspraushangtel></heroes:anspraushangtel>
+			
+			<heroes:wochenarbeitszeit>null</heroes:wochenarbeitszeit>
+			<heroes:wideDescription><![CDATA[
+			<div id="rss">
+				<div id="description">
+					<div id="jobproperty10">
+						<div class="label">Kennziffer</div>
+						<div class="value">1021</div>
+					</div>
+					<div id="jobproperty20">
+						<div class="label">Gesellschaft</div>
+						<div class="value">Company AG</div>
+					</div>
+					<div id="jobproperty30">
+							<div class="label">Ihr Verantwortungsbereich:</div>
+							<div class="value"><ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul></div>
+						</div>
+					<div id="jobproperty40">
+							<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+							<div class="value"><ul><li>Sehr gute Kenntnisse und berufliche Erfahrung im Umgang mit UNIX-Systemen</li></ul></div>
+						</div>
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+						<div id="jobproperty60">
+							<div class="label">Einsatzort</div>
+							<div class="value">Berlin</div>
+						</div>
+					<div id="jobproperty65">
+							<div class="label">Land</div>
+							<div class="value">Deutschland</div>
+						</div>
+					<div id="jobproperty70">
+							<div class="label">Aufgabenbereich</div>
+							<div class="value">Technik</div>
+						</div>
+					<div id="jobproperty80">
+							<div class="label">Besch&#xe4;ftigungsart</div>
+							<div class="value">Festanstellung</div>
+						</div>
+					</div>
+			</div>
+			<!--
+			<nummer>1021</nummer>
+			<ort>Berlin</ort>
+			<land>Deutschland</land>
+			<kontakt>P. Personal</kontakt>
+			<kontakt-telefon>+49 00 11 22 33 </kontakt-telefon>
+			<link>http://some.domain/r/Z11XMQIGU5KROK9</link>
+
+			<plz>12345</plz>
+			<strasse-nr></strasse-nr>
+			<bundesland></bundesland>
+			
+			-->
+			]]></heroes:wideDescription>
+		</item>
+		<item>
+			<link>http://some.domain/r/Z00XSQSAESU7SCN/Teamleiter+mw+Solutions+247/12345/Berlin</link>
+			<pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://some.domain/r/Z00XSQSAESU7SCN/Teamleiter+mw+Solutions+247/12345/Berlin</guid>
+			<title>Teamleiter (m/w) Solutions 24/7</title>
+			<description><![CDATA[<ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul>]]></description>
+			<heroes:stellenAnsichtLink>http://some.domain/r/Z00GJLWJY124WHU/Teamleiter+mw+Solutions+247/12345/Berlin</heroes:stellenAnsichtLink>
+			<heroes:bewerbungsLink>http://some.domain/r/Z12MWRWADC0VYVA/Teamleiter+mw+Solutions+247/12345/Berlin</heroes:bewerbungsLink>
+			<heroes:kennziffer>1022</heroes:kennziffer>
+			<heroes:kennzifferkunde></heroes:kennzifferkunde>
+			<heroes:referenznummer></heroes:referenznummer>
+			<heroes:positionanzeige>Teamleiter (m/w) Solutions 24/7</heroes:positionanzeige>
+			<heroes:geschaeftsbereich>Company AG</heroes:geschaeftsbereich>
+			<heroes:geschaeftsbereichKey>STR</heroes:geschaeftsbereichKey>
+			<heroes:gesellschaft><![CDATA[Company AG]]></heroes:gesellschaft>
+			<heroes:infotext>COMPANY wurde 1997 gegr&#xfc;ndet und besch&#xe4;ftigt heute 550 Mitarbeiter an zwei Standorten in Deutschland.  Die wichtigsten M&#xe4;rkte sind Deutschland, die Niederlande, Spanien und die T&#xfc;rkei.
+
+Das Hosting-Unternehmen begleitet seine Kunden auf dem Weg in die Digitalisierung. Die Produktpalette reicht von Domains, Websites, Webshops und Online-Speicher &#xfc;ber Office-Pakete und Online-Marketing-Tools bis hin zu individuellen High-End-L&#xf6;sungen und Managed-Hosting. COMPANY hostet vier Millionen Domains f&#xfc;r Kunden weltweit und betreibt &#xfc;ber 60.000 Server in zwei T&#xdc;V-zertifizierten Rechenzentren in Deutschland.
+
+Mit seiner umfassenden Initiative &#x201e;#faireinfacht&#x201c; gestaltet COMPANY Webhosting-Dienste fairer und einfacher. COMPANY bietet seinen Kunden kurze Laufzeiten, eine einfache und schnelle Online-K&#xfc;ndigung sowie eine 30 Tage Geld-zur&#xfc;ck-Garantie &#x2013; f&#xfc;r s&#xe4;mtliche Produkte, auch f&#xfc;r Domains. Zus&#xe4;tzlich setzt COMPANY auf eine transparente Preisdarstellung mit glatten Preisen und ohne Kleingedrucktem.
+
+COMPANY geh&#xf6;rt seit dem 1. April 2017 zur United Internet-Gruppe.</heroes:infotext>
+			<heroes:aufgaben><![CDATA[<ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul>]]></heroes:aufgaben>
+			<heroes:qualifikationen><![CDATA[<ul><li>Sehr gute Kenntnisse und berufliche Erfahrung im Umgang mit UNIX-Systemen</li></ul>]]></heroes:qualifikationen>
+			<heroes:formattedAufgaben><![CDATA[ 
+				<div id="jobproperty30">
+						<div class="label">Ihr Verantwortungsbereich:</div>
+						<div class="value"><ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedAufgaben>
+			<heroes:formattedQualifikationen><![CDATA[
+				<div id="jobproperty40">
+						<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+						<div class="value"><ul><li>Sehr gute Kenntnisse und berufliche Erfahrung im Umgang mit UNIX-Systemen</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedQualifikationen>
+			<heroes:formattedZusatzinfo1><![CDATA[
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+			]]></heroes:formattedZusatzinfo1>
+			<heroes:formattedZusatzinfo2><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo2>
+			<heroes:formattedZusatzinfo3><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo3>
+			<heroes:beschaeftigungsart>Festanstellung</heroes:beschaeftigungsart>
+			<heroes:beschaeftigungsartKey></heroes:beschaeftigungsartKey>
+			<heroes:aufgabenbereich>Technik</heroes:aufgabenbereich>
+			<heroes:zuBesetzenAb>zum fr&#xfc;hestm&#xf6;glichen Eintrittstermin</heroes:zuBesetzenAb>
+			<heroes:einsatzortSummary>12345 Berlin, Deutschland</heroes:einsatzortSummary>
+			<heroes:einsatzort>Berlin</heroes:einsatzort>
+			<heroes:adresse></heroes:adresse>
+			<heroes:zusatzinfo1>&#x3c;ul>&#x3c;li>&#x3c;b>Freiraum statt Luftnot:&#x3c;/b>&#x3c;/li>&#x3c;/ul></heroes:zusatzinfo1>
+			<heroes:zusatzinfo2></heroes:zusatzinfo2>
+			<heroes:zusatzinfo3></heroes:zusatzinfo3>
+			<heroes:einleitung></heroes:einleitung>
+			<heroes:hotjob>false</heroes:hotjob>
+			<heroes:vacancycount>1</heroes:vacancycount>
+			<heroes:kostenstelle></heroes:kostenstelle>
+			<heroes:postleitzahl>12345</heroes:postleitzahl>
+			<heroes:land>Deutschland</heroes:land>
+			<heroes:plzmeta>12345</heroes:plzmeta>
+			<heroes:anspraushangname>P. Personal</heroes:anspraushangname>
+			<heroes:ansprpersonalemail>job10-personal@telum.de</heroes:ansprpersonalemail>
+			<heroes:anspraushangtel></heroes:anspraushangtel>
+			
+			<heroes:wochenarbeitszeit>null</heroes:wochenarbeitszeit>
+			<heroes:wideDescription><![CDATA[
+			<div id="rss">
+				<div id="description">
+					<div id="jobproperty10">
+						<div class="label">Kennziffer</div>
+						<div class="value">1022</div>
+					</div>
+					<div id="jobproperty20">
+						<div class="label">Gesellschaft</div>
+						<div class="value">Company AG</div>
+					</div>
+					<div id="jobproperty30">
+							<div class="label">Ihr Verantwortungsbereich:</div>
+							<div class="value"><ul><li>Administration von UNIX/Linux Server Systemen, der Cloud Controller und deren Komponenten</li></ul></div>
+						</div>
+					<div id="jobproperty40">
+							<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+							<div class="value"><ul><li>Sehr gute Kenntnisse und berufliche Erfahrung im Umgang mit UNIX-Systemen</li></ul></div>
+						</div>
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Freiraum statt Luftnot:</b></li></ul></div>
+						</div>
+						<div id="jobproperty60">
+							<div class="label">Einsatzort</div>
+							<div class="value">Berlin</div>
+						</div>
+					<div id="jobproperty65">
+							<div class="label">Land</div>
+							<div class="value">Deutschland</div>
+						</div>
+					<div id="jobproperty70">
+							<div class="label">Aufgabenbereich</div>
+							<div class="value">Technik</div>
+						</div>
+					<div id="jobproperty80">
+							<div class="label">Besch&#xe4;ftigungsart</div>
+							<div class="value">Festanstellung</div>
+						</div>
+					</div>
+			</div>
+			<!--
+			<nummer>1022</nummer>
+			<ort>Berlin</ort>
+			<land>Deutschland</land>
+			<kontakt>P. Personal</kontakt>
+			<kontakt-telefon>+49 00 11 22 33 </kontakt-telefon>
+			<link>http://some.domain/r/Z12KJ1W3TWPATV5</link>
+
+			<plz>12345</plz>
+			<strasse-nr></strasse-nr>
+			<bundesland></bundesland>
+			
+			-->
+			]]></heroes:wideDescription>
+		</item>
+		<item>
+			<link>http://some.domain/r/Z11LPD8KRLWYU4M/Trainer+mw+Kommunikation/12345/Berlin</link>
+			<pubDate>Tue, 28 Nov 2017 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://some.domain/r/Z11LPD8KRLWYU4M/Trainer+mw+Kommunikation/12345/Berlin</guid>
+			<title>Trainer (m/w) Kommunikation</title>
+			<description><![CDATA[<ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul>]]></description>
+			<heroes:stellenAnsichtLink>http://some.domain/r/Z1018NCVDN03F6S/Trainer+mw+Kommunikation/12345/Berlin</heroes:stellenAnsichtLink>
+			<heroes:bewerbungsLink>http://some.domain/r/Z11UDG7HG3P45YN/Trainer+mw+Kommunikation/12345/Berlin</heroes:bewerbungsLink>
+			<heroes:kennziffer>1012</heroes:kennziffer>
+			<heroes:kennzifferkunde></heroes:kennzifferkunde>
+			<heroes:referenznummer></heroes:referenznummer>
+			<heroes:positionanzeige>Trainer (m/w) Kommunikation</heroes:positionanzeige>
+			<heroes:geschaeftsbereich>Company AG</heroes:geschaeftsbereich>
+			<heroes:geschaeftsbereichKey>STR</heroes:geschaeftsbereichKey>
+			<heroes:gesellschaft><![CDATA[Company AG]]></heroes:gesellschaft>
+			<heroes:infotext>COMPANY wurde 1997 gegr&#xfc;ndet und besch&#xe4;ftigt heute 550 Mitarbeiter an zwei Standorten in Deutschland.  Die wichtigsten M&#xe4;rkte sind Deutschland, die Niederlande, Spanien und die T&#xfc;rkei.
+
+Das Hosting-Unternehmen begleitet seine Kunden auf dem Weg in die Digitalisierung. Die Produktpalette reicht von Domains, Websites, Webshops und Online-Speicher &#xfc;ber Office-Pakete und Online-Marketing-Tools bis hin zu individuellen High-End-L&#xf6;sungen und Managed-Hosting. COMPANY hostet vier Millionen Domains f&#xfc;r Kunden weltweit und betreibt &#xfc;ber 60.000 Server in zwei T&#xdc;V-zertifizierten Rechenzentren in Deutschland.
+
+Mit seiner umfassenden Initiative &#x201e;#faireinfacht&#x201c; gestaltet COMPANY Webhosting-Dienste fairer und einfacher. COMPANY bietet seinen Kunden kurze Laufzeiten, eine einfache und schnelle Online-K&#xfc;ndigung sowie eine 30 Tage Geld-zur&#xfc;ck-Garantie &#x2013; f&#xfc;r s&#xe4;mtliche Produkte, auch f&#xfc;r Domains. Zus&#xe4;tzlich setzt COMPANY auf eine transparente Preisdarstellung mit glatten Preisen und ohne Kleingedrucktem.
+
+COMPANY geh&#xf6;rt seit dem 1. April 2017 zur United Internet-Gruppe.</heroes:infotext>
+			<heroes:aufgaben><![CDATA[<ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul>]]></heroes:aufgaben>
+			<heroes:qualifikationen><![CDATA[<ul><li>Sie bereichern unser Team mit Ihrem l&ouml;sungsorientiertem Service-Gedanken, Ihrer Kommunikationsst&auml;rke und einem guten technischen Grundverst&auml;ndnis.</li></ul>]]></heroes:qualifikationen>
+			<heroes:formattedAufgaben><![CDATA[ 
+				<div id="jobproperty30">
+						<div class="label">Ihr Verantwortungsbereich:</div>
+						<div class="value"><ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedAufgaben>
+			<heroes:formattedQualifikationen><![CDATA[
+				<div id="jobproperty40">
+						<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+						<div class="value"><ul><li>Sie bereichern unser Team mit Ihrem l&ouml;sungsorientiertem Service-Gedanken, Ihrer Kommunikationsst&auml;rke und einem guten technischen Grundverst&auml;ndnis.</li></ul></div>
+					</div>
+				
+			]]></heroes:formattedQualifikationen>
+			<heroes:formattedZusatzinfo1><![CDATA[
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Wohlf&uuml;hlatmosph&auml;re statt Unwohlsein:</b></li></ul></div>
+						</div>
+			]]></heroes:formattedZusatzinfo1>
+			<heroes:formattedZusatzinfo2><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo2>
+			<heroes:formattedZusatzinfo3><![CDATA[
+					
+			]]></heroes:formattedZusatzinfo3>
+			<heroes:beschaeftigungsart>Festanstellung</heroes:beschaeftigungsart>
+			<heroes:beschaeftigungsartKey></heroes:beschaeftigungsartKey>
+			<heroes:aufgabenbereich>Kundenservice</heroes:aufgabenbereich>
+			<heroes:zuBesetzenAb>zum fr&#xfc;hestm&#xf6;glichen Eintrittstermin</heroes:zuBesetzenAb>
+			<heroes:einsatzortSummary>12345 Berlin, Deutschland</heroes:einsatzortSummary>
+			<heroes:einsatzort>Berlin</heroes:einsatzort>
+			<heroes:adresse></heroes:adresse>
+			<heroes:zusatzinfo1>&#x3c;ul>&#x3c;li>&#x3c;b>Wohlf&#x26;uuml;hlatmosph&#x26;auml;re statt Unwohlsein:&#x3c;/b>&#x3c;/li>&#x3c;/ul></heroes:zusatzinfo1>
+			<heroes:zusatzinfo2></heroes:zusatzinfo2>
+			<heroes:zusatzinfo3></heroes:zusatzinfo3>
+			<heroes:einleitung></heroes:einleitung>
+			<heroes:hotjob>false</heroes:hotjob>
+			<heroes:vacancycount>1</heroes:vacancycount>
+			<heroes:kostenstelle></heroes:kostenstelle>
+			<heroes:postleitzahl>12345</heroes:postleitzahl>
+			<heroes:land>Deutschland</heroes:land>
+			<heroes:plzmeta>12345</heroes:plzmeta>
+			<heroes:anspraushangname>P. Personal</heroes:anspraushangname>
+			<heroes:ansprpersonalemail>job10-personal@telum.de</heroes:ansprpersonalemail>
+			<heroes:anspraushangtel></heroes:anspraushangtel>
+			
+			<heroes:wochenarbeitszeit>null</heroes:wochenarbeitszeit>
+			<heroes:wideDescription><![CDATA[
+			<div id="rss">
+				<div id="description">
+					<div id="jobproperty10">
+						<div class="label">Kennziffer</div>
+						<div class="value">1012</div>
+					</div>
+					<div id="jobproperty20">
+						<div class="label">Gesellschaft</div>
+						<div class="value">Company AG</div>
+					</div>
+					<div id="jobproperty30">
+							<div class="label">Ihr Verantwortungsbereich:</div>
+							<div class="value"><ul><li>Als COMPANY Experte sind Sie in unserem hausinternen Call Center der erste Ansprechpartner unserer Kunden.</li></ul></div>
+						</div>
+					<div id="jobproperty40">
+							<div class="label">Ihre Pers&#xf6;nlichkeit:</div>
+							<div class="value"><ul><li>Sie bereichern unser Team mit Ihrem l&ouml;sungsorientiertem Service-Gedanken, Ihrer Kommunikationsst&auml;rke und einem guten technischen Grundverst&auml;ndnis.</li></ul></div>
+						</div>
+					<div id="jobproperty50">
+							<div class="label">Wir bieten Ihnen:</div>
+							<div class="value"><ul><li><b>Wohlf&uuml;hlatmosph&auml;re statt Unwohlsein:</b></li></ul></div>
+						</div>
+						<div id="jobproperty60">
+							<div class="label">Einsatzort</div>
+							<div class="value">Berlin</div>
+						</div>
+					<div id="jobproperty65">
+							<div class="label">Land</div>
+							<div class="value">Deutschland</div>
+						</div>
+					<div id="jobproperty70">
+							<div class="label">Aufgabenbereich</div>
+							<div class="value">Kundenservice</div>
+						</div>
+					<div id="jobproperty80">
+							<div class="label">Besch&#xe4;ftigungsart</div>
+							<div class="value">Festanstellung</div>
+						</div>
+					</div>
+			</div>
+			<!--
+			<nummer>1012</nummer>
+			<ort>Berlin</ort>
+			<land>Deutschland</land>
+			<kontakt>P. Personal</kontakt>
+			<kontakt-telefon>+49 00 11 22 33 </kontakt-telefon>
+			<link>http://some.domain/r/Z00BQ16G407KMX3</link>
+
+			<plz>12345</plz>
+			<strasse-nr></strasse-nr>
+			<bundesland></bundesland>
+			
+			-->
+			]]></heroes:wideDescription>
+		</item>
+		</channel>
+</rss>
