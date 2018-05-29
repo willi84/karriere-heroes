@@ -1,8 +1,5 @@
 # KarriereHeroes
 
-## Purpose
-This project should transform a rss feed to a list of items. In this case we are using a feed from the job platform karriere-heroes
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
 
 ## Development server
@@ -29,15 +26,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-
-# COPYRIGHT AND LICENSE
-
-This software is copyright (c) 2018 by Robert Willemelis.
-
-This is free software using the MIT license.
-
-## ACKNOWLEDGEMENT
-
-This software has been developed with support from STRATO.
-In German: Diese Software wurde mit Unterstützung von STRATO entwickelt.
 
