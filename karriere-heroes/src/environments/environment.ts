@@ -23,12 +23,12 @@ export const environment = {
     'Ausbildung'                          : 'Ausbildung',
   },
   images: {
-    'Vertrieb'                    : '/assets/vertrieb.jpg',
-    'Kundenservice'               : '/assets/kundenservice.jpg',
-    'IT Entwicklung'              : '/assets/entwicklung.jpg',
-    'IT Administration'           : '/assets/technik.jpg',
-    'Ausbildung'                  : '/assets/test.jpg',
-    'Sonstige'                    : '/assets/test.jpg',
-    'blank'                       : '/assets/test.jpg'
+    'Vertrieb'                    : './assets/vertrieb.jpg',
+    'Kundenservice'               : './assets/kundenservice.jpg',
+    'IT Entwicklung'              : './assets/entwicklung.jpg',
+    'IT Administration'           : './assets/technik.jpg',
+    'Ausbildung'                  : './assets/test.jpg',
+    'Sonstige'                    : './assets/test.jpg',
+    'blank'                       : './assets/test.jpg'
   }
 };
